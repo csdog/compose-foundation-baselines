@@ -1,0 +1,89 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "avatar",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/skeleton-avatar.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/skeleton-avatar",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "skeleton-avatar-initial-light.png",
+        "skeleton-avatar-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "card",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/skeleton-card.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/skeleton-card",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "skeleton-card-initial-light.png",
+        "skeleton-card-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "form",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/skeleton-form.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/skeleton-form",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "skeleton-form-initial-light.png",
+        "skeleton-form-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/skeleton-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/skeleton-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "skeleton-rtl-initial-light.png",
+        "skeleton-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "table",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/skeleton-table.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/skeleton-table",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "skeleton-table-initial-light.png",
+        "skeleton-table-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "text",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/skeleton-text.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/skeleton-text",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "skeleton-text-initial-light.png",
+        "skeleton-text-initial-dark.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "controlled",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-controlled.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-controlled",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-controlled-initial-light.png",
+        "sidebar-controlled-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "footer",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-footer.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-footer",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-footer-initial-light.png",
+        "sidebar-footer-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-group-initial-light.png",
+        "sidebar-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "group-action",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-group-action.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-group-action",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-group-action-initial-light.png",
+        "sidebar-group-action-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "group-collapsible",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-group-collapsible.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-group-collapsible",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-group-collapsible-initial-light.png",
+        "sidebar-group-collapsible-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "header",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-header.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-header",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-header-initial-light.png",
+        "sidebar-header-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "menu",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-menu.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-menu",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-menu-initial-light.png",
+        "sidebar-menu-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "menu-action",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-menu-action.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-menu-action",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-menu-action-initial-light.png",
+        "sidebar-menu-action-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "menu-badge",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-menu-badge.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-menu-badge",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-menu-badge-initial-light.png",
+        "sidebar-menu-badge-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "menu-collapsible",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-menu-collapsible.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-menu-collapsible",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-menu-collapsible-initial-light.png",
+        "sidebar-menu-collapsible-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "menu-sub",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-menu-sub.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-menu-sub",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-menu-sub-initial-light.png",
+        "sidebar-menu-sub-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rsc",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-rsc.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-rsc",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-rsc-initial-light.png",
+        "sidebar-rsc-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "sidebar-rtl-initial-light.png",
+        "sidebar-rtl-initial-dark.png"
+      ]
+    }
+  ]
+}

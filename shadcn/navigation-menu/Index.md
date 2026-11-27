@@ -6,3 +6,13 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Navigation Menu 浅色](navigation-menu-default-initial-light.png) |
 | 初始态 | 深色 | ![Navigation Menu 深色](navigation-menu-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [navigation-menu-demo](https://ui.shadcn.com/examples/base/navigation-menu-demo) | `default` | `open` | `base-nova` | [浅色](navigation-menu-default-open-light.png) · [深色](navigation-menu-default-open-dark.png) |
+| [navigation-menu-rtl](https://ui.shadcn.com/examples/base/navigation-menu-rtl) | `rtl` | `initial` | `example-defined` | [浅色](navigation-menu-rtl-initial-light.png) · [深色](navigation-menu-rtl-initial-dark.png) |
+| [navigation-menu-rtl](https://ui.shadcn.com/examples/base/navigation-menu-rtl) | `rtl` | `open` | `example-defined` | [浅色](navigation-menu-rtl-open-light.png) · [深色](navigation-menu-rtl-open-dark.png) |

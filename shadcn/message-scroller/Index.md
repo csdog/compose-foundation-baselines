@@ -6,3 +6,21 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Message Scroller 浅色](message-scroller-default-initial-light.png) |
 | 初始态 | 深色 | ![Message Scroller 深色](message-scroller-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [message-scroller-anchoring](https://ui.shadcn.com/examples/base/message-scroller-anchoring) | `anchoring` | `initial` | `base-rhea` | [浅色](message-scroller-anchoring-initial-light.png) · [深色](message-scroller-anchoring-initial-dark.png) |
+| [message-scroller-animation](https://ui.shadcn.com/examples/base/message-scroller-animation) | `animation` | `initial` | `base-rhea` | [浅色](message-scroller-animation-initial-light.png) · [深色](message-scroller-animation-initial-dark.png) |
+| [message-scroller-commands](https://ui.shadcn.com/examples/base/message-scroller-commands) | `commands` | `initial` | `base-rhea` | [浅色](message-scroller-commands-initial-light.png) · [深色](message-scroller-commands-initial-dark.png) |
+| [message-scroller-group-chat](https://ui.shadcn.com/examples/base/message-scroller-group-chat) | `group-chat` | `initial` | `base-rhea` | [浅色](message-scroller-group-chat-initial-light.png) · [深色](message-scroller-group-chat-initial-dark.png) |
+| [message-scroller-load-history](https://ui.shadcn.com/examples/base/message-scroller-load-history) | `load-history` | `initial` | `base-rhea` | [浅色](message-scroller-load-history-initial-light.png) · [深色](message-scroller-load-history-initial-dark.png) |
+| [message-scroller-opening-position](https://ui.shadcn.com/examples/base/message-scroller-opening-position) | `opening-position` | `initial` | `base-rhea` | [浅色](message-scroller-opening-position-initial-light.png) · [深色](message-scroller-opening-position-initial-dark.png) |
+| [message-scroller-previous-context](https://ui.shadcn.com/examples/base/message-scroller-previous-context) | `previous-context` | `initial` | `base-rhea` | [浅色](message-scroller-previous-context-initial-light.png) · [深色](message-scroller-previous-context-initial-dark.png) |
+| [message-scroller-scrollable](https://ui.shadcn.com/examples/base/message-scroller-scrollable) | `scrollable` | `initial` | `base-rhea` | [浅色](message-scroller-scrollable-initial-light.png) · [深色](message-scroller-scrollable-initial-dark.png) |
+| [message-scroller-state](https://ui.shadcn.com/examples/base/message-scroller-state) | `state` | `initial` | `base-rhea` | [浅色](message-scroller-state-initial-light.png) · [深色](message-scroller-state-initial-dark.png) |
+| [message-scroller-streaming](https://ui.shadcn.com/examples/base/message-scroller-streaming) | `streaming` | `initial` | `base-rhea` | [浅色](message-scroller-streaming-initial-light.png) · [深色](message-scroller-streaming-initial-dark.png) |
+| [message-scroller-visibility](https://ui.shadcn.com/examples/base/message-scroller-visibility) | `visibility` | `initial` | `base-rhea` | [浅色](message-scroller-visibility-initial-light.png) · [深色](message-scroller-visibility-initial-dark.png) |
