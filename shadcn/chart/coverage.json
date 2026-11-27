@@ -97,6 +97,32 @@
         "chart-tooltip-initial-light.png",
         "chart-tooltip-initial-dark.png"
       ]
+    },
+    {
+      "variant": "demo",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/chart-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/chart-demo",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "chart-demo-keyboard-focused-light.png",
+        "chart-demo-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "tag": "button",
+          "label": "Desktop7,324",
+          "visible": true,
+          "paint": "none auto lab(90.952 0 -0.0000119209)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
     }
   ]
 }

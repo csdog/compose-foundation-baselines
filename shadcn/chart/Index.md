@@ -20,3 +20,4 @@
 | 5 | [chart-example-tooltip](https://ui.shadcn.com/examples/base/chart-example-tooltip) | `example-tooltip` | `initial` | `base-nova` | [浅色](chart-example-tooltip-initial-light.png) · [深色](chart-example-tooltip-initial-dark.png) |
 | 6 | [chart-rtl](https://ui.shadcn.com/examples/base/chart-rtl) | `rtl` | `initial` | `example-defined` | [浅色](chart-rtl-initial-light.png) · [深色](chart-rtl-initial-dark.png) |
 | 7 | [chart-tooltip](https://ui.shadcn.com/examples/base/chart-tooltip) | `tooltip` | `initial` | `example-defined` | [浅色](chart-tooltip-initial-light.png) · [深色](chart-tooltip-initial-dark.png) |
+| 8 | [chart-demo](https://ui.shadcn.com/examples/base/chart-demo) | `demo` | `keyboard-focused` | `example-defined` | [浅色](chart-demo-keyboard-focused-light.png) · [深色](chart-demo-keyboard-focused-dark.png) |
