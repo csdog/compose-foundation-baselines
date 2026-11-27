@@ -19,3 +19,4 @@
 | 4 | [breadcrumb-link](https://ui.shadcn.com/examples/base/breadcrumb-link) | `link` | `initial` | `base-nova` | [浅色](breadcrumb-link-initial-light.png) · [深色](breadcrumb-link-initial-dark.png) |
 | 5 | [breadcrumb-rtl](https://ui.shadcn.com/examples/base/breadcrumb-rtl) | `rtl` | `initial` | `example-defined` | [浅色](breadcrumb-rtl-initial-light.png) · [深色](breadcrumb-rtl-initial-dark.png) |
 | 6 | [breadcrumb-separator](https://ui.shadcn.com/examples/base/breadcrumb-separator) | `separator` | `initial` | `base-nova` | [浅色](breadcrumb-separator-initial-light.png) · [深色](breadcrumb-separator-initial-dark.png) |
+| 7 | [breadcrumb-demo](https://ui.shadcn.com/examples/base/breadcrumb-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](breadcrumb-default-keyboard-focused-light.png) · [深色](breadcrumb-default-keyboard-focused-dark.png) |
