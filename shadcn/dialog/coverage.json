@@ -161,6 +161,75 @@
         "target": "button",
         "expect": "[role=dialog]"
       }
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-default-keyboard-focused-light.png",
+        "dialog-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "button",
+          "tag": "button",
+          "label": "Open Dialog",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.2295) 0px 0px 0px 1.377px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.823772 -0.00000818688 0.0000193061)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-activated",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-default-keyboard-activated-light.png",
+        "dialog-default-keyboard-activated-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "button",
+          "tag": "button",
+          "label": "Open Dialog",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.2295) 0px 0px 0px 1.377px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.823772 -0.00000818688 0.0000193061)"
+        },
+        "keys": [
+          "Tab",
+          "Enter"
+        ],
+        "expect": {
+          "key": "Enter",
+          "region": "[role=dialog]",
+          "attribute": null,
+          "beforeValue": null,
+          "afterValue": null,
+          "end": {
+            "role": null,
+            "slot": "input",
+            "tag": "input",
+            "label": "",
+            "visible": true,
+            "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.5) 0px 0px 0px 3px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.914924 -0.00000902468 0.0000214133)"
+          }
+        }
+      }
     }
   ]
 }
