@@ -20,3 +20,4 @@
 | 5 | [marker-shimmer](https://ui.shadcn.com/examples/base/marker-shimmer) | `shimmer` | `initial` | `base-rhea` | [浅色](marker-shimmer-initial-light.png) · [深色](marker-shimmer-initial-dark.png) |
 | 6 | [marker-status](https://ui.shadcn.com/examples/base/marker-status) | `status` | `initial` | `base-rhea` | [浅色](marker-status-initial-light.png) · [深色](marker-status-initial-dark.png) |
 | 7 | [marker-variants](https://ui.shadcn.com/examples/base/marker-variants) | `variants` | `initial` | `base-rhea` | [浅色](marker-variants-initial-light.png) · [深色](marker-variants-initial-dark.png) |
+| 8 | [marker-link-button](https://ui.shadcn.com/examples/base/marker-link-button) | `link-button` | `keyboard-focused` | `base-rhea` | [浅色](marker-link-button-keyboard-focused-light.png) · [深色](marker-link-button-keyboard-focused-dark.png) |
