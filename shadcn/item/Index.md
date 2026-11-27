@@ -25,3 +25,4 @@
 | 10 | [item-variant](https://ui.shadcn.com/examples/base/item-variant) | `variant` | `initial` | `base-nova` | [浅色](item-variant-initial-light.png) · [深色](item-variant-initial-dark.png) |
 | 11 | [muted-item-group](https://ui.shadcn.com/examples/base/muted-item-group) | `muted-item-group` | `initial` | `base-nova` | [浅色](item-muted-item-group-initial-light.png) · [深色](item-muted-item-group-initial-dark.png) |
 | 12 | [outline-item-group](https://ui.shadcn.com/examples/base/outline-item-group) | `outline-item-group` | `initial` | `base-nova` | [浅色](item-outline-item-group-initial-light.png) · [深色](item-outline-item-group-initial-dark.png) |
+| 13 | [item-demo](https://ui.shadcn.com/examples/base/item-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](item-default-keyboard-focused-light.png) · [深色](item-default-keyboard-focused-dark.png) |
