@@ -25,3 +25,5 @@
 | 10 | [alert-dialog-media](https://ui.shadcn.com/examples/base/alert-dialog-media) | `media` | `open` | `base-nova` | [浅色](alert-dialog-media-open-light.png) · [深色](alert-dialog-media-open-dark.png) |
 | 11 | [alert-dialog-small](https://ui.shadcn.com/examples/base/alert-dialog-small) | `small` | `open` | `base-nova` | [浅色](alert-dialog-small-open-light.png) · [深色](alert-dialog-small-open-dark.png) |
 | 12 | [alert-dialog-small-media](https://ui.shadcn.com/examples/base/alert-dialog-small-media) | `small-media` | `open` | `base-nova` | [浅色](alert-dialog-small-media-open-light.png) · [深色](alert-dialog-small-media-open-dark.png) |
+| 13 | [alert-dialog-rtl](https://ui.shadcn.com/examples/base/alert-dialog-rtl) | `rtl` | `open` | `base-nova` | [浅色](alert-dialog-rtl-open-light.png) · [深色](alert-dialog-rtl-open-dark.png) |
+| 14 | [alert-dialog-rtl](https://ui.shadcn.com/examples/base/alert-dialog-rtl) | `rtl-small` | `open` | `base-nova` | [浅色](alert-dialog-rtl-small-open-light.png) · [深色](alert-dialog-rtl-small-open-dark.png) |

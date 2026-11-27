@@ -240,6 +240,54 @@
         ],
         "settleMilliseconds": 500
       }
+    },
+    {
+      "variant": "rtl",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-rtl",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-rtl-open-light.png",
+        "alert-dialog-rtl-open-dark.png"
+      ],
+      "interaction": {
+        "target": "[data-slot=alert-dialog-trigger]",
+        "triggerIndex": 0,
+        "expect": "[role=alertdialog]",
+        "action": "click",
+        "settledPointer": [
+          719,
+          519
+        ],
+        "settleMilliseconds": 500
+      }
+    },
+    {
+      "variant": "rtl-small",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-rtl",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-rtl-small-open-light.png",
+        "alert-dialog-rtl-small-open-dark.png"
+      ],
+      "interaction": {
+        "target": "[data-slot=alert-dialog-trigger]",
+        "triggerIndex": 1,
+        "expect": "[role=alertdialog]",
+        "action": "click",
+        "settledPointer": [
+          719,
+          519
+        ],
+        "settleMilliseconds": 500
+      }
     }
   ]
 }
