@@ -1,0 +1,154 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "dropdown",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-dropdown.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-dropdown",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-dropdown-initial-light.png",
+        "button-group-dropdown-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "input",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-input.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-input",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-input-initial-light.png",
+        "button-group-input-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "input-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-input-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-input-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-input-group-initial-light.png",
+        "button-group-input-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "nested",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-nested.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-nested",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-nested-initial-light.png",
+        "button-group-nested-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "orientation",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-orientation.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-orientation",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-orientation-initial-light.png",
+        "button-group-orientation-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "popover",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-popover.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-popover",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-popover-initial-light.png",
+        "button-group-popover-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "button-group-rtl-initial-light.png",
+        "button-group-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "select",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-select.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-select",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-select-initial-light.png",
+        "button-group-select-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "separator",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-separator.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-separator",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-separator-initial-light.png",
+        "button-group-separator-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "size",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-size.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-size",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-size-initial-light.png",
+        "button-group-size-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "split",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/button-group-split.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/button-group-split",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "button-group-split-initial-light.png",
+        "button-group-split-initial-dark.png"
+      ]
+    }
+  ]
+}
