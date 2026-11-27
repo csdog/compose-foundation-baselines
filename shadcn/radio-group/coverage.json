@@ -1,0 +1,120 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "radio-fields",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/radio-fields.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/radio-fields",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "radio-group-radio-fields-initial-light.png",
+        "radio-group-radio-fields-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "choice-card",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/radio-group-choice-card.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/radio-group-choice-card",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "radio-group-choice-card-initial-light.png",
+        "radio-group-choice-card-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "compact",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/radio-group-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/radio-group-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "radio-group-default-compact-light.png",
+        "radio-group-default-compact-dark.png"
+      ],
+      "interaction": {
+        "action": "click",
+        "target": "role:radio:Compact",
+        "expect": "label:Compact"
+      }
+    },
+    {
+      "variant": "description",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/radio-group-description.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/radio-group-description",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "radio-group-description-initial-light.png",
+        "radio-group-description-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "disabled",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/radio-group-disabled.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/radio-group-disabled",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "radio-group-disabled-initial-light.png",
+        "radio-group-disabled-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "fieldset",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/radio-group-fieldset.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/radio-group-fieldset",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "radio-group-fieldset-initial-light.png",
+        "radio-group-fieldset-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "invalid",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/radio-group-invalid.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/radio-group-invalid",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "radio-group-invalid-initial-light.png",
+        "radio-group-invalid-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/radio-group-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/radio-group-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "radio-group-rtl-initial-light.png",
+        "radio-group-rtl-initial-dark.png"
+      ]
+    }
+  ]
+}
