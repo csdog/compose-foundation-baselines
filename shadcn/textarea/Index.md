@@ -18,3 +18,4 @@
 | 3 | [textarea-field](https://ui.shadcn.com/examples/base/textarea-field) | `field` | `initial` | `base-nova` | [浅色](textarea-field-initial-light.png) · [深色](textarea-field-initial-dark.png) |
 | 4 | [textarea-invalid](https://ui.shadcn.com/examples/base/textarea-invalid) | `invalid` | `initial` | `base-nova` | [浅色](textarea-invalid-initial-light.png) · [深色](textarea-invalid-initial-dark.png) |
 | 5 | [textarea-rtl](https://ui.shadcn.com/examples/base/textarea-rtl) | `rtl` | `initial` | `example-defined` | [浅色](textarea-rtl-initial-light.png) · [深色](textarea-rtl-initial-dark.png) |
+| 6 | [textarea-demo](https://ui.shadcn.com/examples/base/textarea-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](textarea-default-keyboard-focused-light.png) · [深色](textarea-default-keyboard-focused-dark.png) |
