@@ -1,0 +1,102 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "border",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/marker-border.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/marker-border",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "marker-border-initial-light.png",
+        "marker-border-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "icon",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/marker-icon.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/marker-icon",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "marker-icon-initial-light.png",
+        "marker-icon-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "link-button",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/marker-link-button.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/marker-link-button",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "marker-link-button-initial-light.png",
+        "marker-link-button-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "separator",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/marker-separator.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/marker-separator",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "marker-separator-initial-light.png",
+        "marker-separator-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "shimmer",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/marker-shimmer.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/marker-shimmer",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "marker-shimmer-initial-light.png",
+        "marker-shimmer-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "status",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/marker-status.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/marker-status",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "marker-status-initial-light.png",
+        "marker-status-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "variants",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/marker-variants.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/marker-variants",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "marker-variants-initial-light.png",
+        "marker-variants-initial-dark.png"
+      ]
+    }
+  ]
+}

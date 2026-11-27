@@ -1,0 +1,211 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "badge",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-badge.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-badge",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-badge-initial-light.png",
+        "input-badge-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "basic",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-basic.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-basic",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-basic-initial-light.png",
+        "input-basic-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "button-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-button-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-button-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-button-group-initial-light.png",
+        "input-button-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-default-focused-light.png",
+        "input-default-focused-dark.png"
+      ],
+      "interaction": {
+        "action": "press:Shift",
+        "target": "#input-demo-api-key",
+        "expect": "#input-demo-api-key:focus"
+      }
+    },
+    {
+      "variant": "disabled",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-disabled.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-disabled",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-disabled-initial-light.png",
+        "input-disabled-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "field",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-field.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-field",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-field-initial-light.png",
+        "input-field-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "fieldgroup",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-fieldgroup.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-fieldgroup",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-fieldgroup-initial-light.png",
+        "input-fieldgroup-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "file",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-file.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-file",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-file-initial-light.png",
+        "input-file-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "form",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-form.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-form",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-form-initial-light.png",
+        "input-form-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "grid",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-grid.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-grid",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-grid-initial-light.png",
+        "input-grid-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "inline",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-inline.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-inline",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-inline-initial-light.png",
+        "input-inline-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "input-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-input-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-input-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-input-group-initial-light.png",
+        "input-input-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "invalid",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-invalid.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-invalid",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-invalid-initial-light.png",
+        "input-invalid-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "required",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-required.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-required",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-required-initial-light.png",
+        "input-required-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "input-rtl-initial-light.png",
+        "input-rtl-initial-dark.png"
+      ]
+    }
+  ]
+}

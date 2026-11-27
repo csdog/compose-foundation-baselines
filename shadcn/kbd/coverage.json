@@ -1,0 +1,76 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "button",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/kbd-button.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/kbd-button",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "kbd-button-initial-light.png",
+        "kbd-button-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/kbd-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/kbd-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "kbd-group-initial-light.png",
+        "kbd-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "input-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/kbd-input-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/kbd-input-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "kbd-input-group-initial-light.png",
+        "kbd-input-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/kbd-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/kbd-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "kbd-rtl-initial-light.png",
+        "kbd-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "tooltip",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/kbd-tooltip.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/kbd-tooltip",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "kbd-tooltip-initial-light.png",
+        "kbd-tooltip-initial-dark.png"
+      ]
+    }
+  ]
+}
