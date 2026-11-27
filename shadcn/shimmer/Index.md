@@ -6,3 +6,18 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Shimmer 浅色](shimmer-default-initial-light.png) |
 | 初始态 | 深色 | ![Shimmer 深色](shimmer-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [shimmer-angle](https://ui.shadcn.com/examples/base/shimmer-angle) | `angle` | `initial` | `example-defined` | [浅色](shimmer-angle-initial-light.png) · [深色](shimmer-angle-initial-dark.png) |
+| [shimmer-color](https://ui.shadcn.com/examples/base/shimmer-color) | `color` | `initial` | `example-defined` | [浅色](shimmer-color-initial-light.png) · [深色](shimmer-color-initial-dark.png) |
+| [shimmer-duration](https://ui.shadcn.com/examples/base/shimmer-duration) | `duration` | `initial` | `example-defined` | [浅色](shimmer-duration-initial-light.png) · [深色](shimmer-duration-initial-dark.png) |
+| [shimmer-marker](https://ui.shadcn.com/examples/base/shimmer-marker) | `marker` | `initial` | `base-rhea` | [浅色](shimmer-marker-initial-light.png) · [深色](shimmer-marker-initial-dark.png) |
+| [shimmer-none](https://ui.shadcn.com/examples/base/shimmer-none) | `none` | `initial` | `example-defined` | [浅色](shimmer-none-initial-light.png) · [深色](shimmer-none-initial-dark.png) |
+| [shimmer-once](https://ui.shadcn.com/examples/base/shimmer-once) | `once` | `initial` | `base-rhea` | [浅色](shimmer-once-initial-light.png) · [深色](shimmer-once-initial-dark.png) |
+| [shimmer-rtl](https://ui.shadcn.com/examples/base/shimmer-rtl) | `rtl` | `initial` | `example-defined` | [浅色](shimmer-rtl-initial-light.png) · [深色](shimmer-rtl-initial-dark.png) |
+| [shimmer-spread](https://ui.shadcn.com/examples/base/shimmer-spread) | `spread` | `initial` | `example-defined` | [浅色](shimmer-spread-initial-light.png) · [深色](shimmer-spread-initial-dark.png) |
