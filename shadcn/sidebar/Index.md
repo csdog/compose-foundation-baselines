@@ -26,3 +26,4 @@
 | 11 | [sidebar-menu-sub](https://ui.shadcn.com/examples/base/sidebar-menu-sub) | `menu-sub` | `initial` | `base-nova` | [浅色](sidebar-menu-sub-initial-light.png) · [深色](sidebar-menu-sub-initial-dark.png) |
 | 12 | [sidebar-rsc](https://ui.shadcn.com/examples/base/sidebar-rsc) | `rsc` | `initial` | `base-nova` | [浅色](sidebar-rsc-initial-light.png) · [深色](sidebar-rsc-initial-dark.png) |
 | 13 | [sidebar-rtl](https://ui.shadcn.com/examples/base/sidebar-rtl) | `rtl` | `initial` | `example-defined` | [浅色](sidebar-rtl-initial-light.png) · [深色](sidebar-rtl-initial-dark.png) |
+| 14 | [sidebar-demo](https://ui.shadcn.com/examples/base/sidebar-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](sidebar-default-keyboard-focused-light.png) · [深色](sidebar-default-keyboard-focused-dark.png) |
