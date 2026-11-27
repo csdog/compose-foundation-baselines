@@ -20,3 +20,4 @@
 | 5 | [spinner-input-group](https://ui.shadcn.com/examples/base/spinner-input-group) | `input-group` | `initial` | `base-nova` | [浅色](spinner-input-group-initial-light.png) · [深色](spinner-input-group-initial-dark.png) |
 | 6 | [spinner-rtl](https://ui.shadcn.com/examples/base/spinner-rtl) | `rtl` | `initial` | `example-defined` | [浅色](spinner-rtl-initial-light.png) · [深色](spinner-rtl-initial-dark.png) |
 | 7 | [spinner-size](https://ui.shadcn.com/examples/base/spinner-size) | `size` | `initial` | `base-nova` | [浅色](spinner-size-initial-light.png) · [深色](spinner-size-initial-dark.png) |
+| 8 | [spinner-input-group](https://ui.shadcn.com/examples/base/spinner-input-group) | `input-group` | `keyboard-focused` | `base-nova` | [浅色](spinner-input-group-keyboard-focused-light.png) · [深色](spinner-input-group-keyboard-focused-dark.png) |
