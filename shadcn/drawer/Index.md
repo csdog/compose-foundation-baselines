@@ -6,3 +6,22 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Drawer 浅色](drawer-default-initial-light.png) |
 | 初始态 | 深色 | ![Drawer 深色](drawer-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [drawer-dialog](https://ui.shadcn.com/examples/base/drawer-dialog) | `dialog` | `initial` | `base-rhea` | [浅色](drawer-dialog-initial-light.png) · [深色](drawer-dialog-initial-dark.png) |
+| [drawer-nested](https://ui.shadcn.com/examples/base/drawer-nested) | `nested` | `initial` | `base-rhea` | [浅色](drawer-nested-initial-light.png) · [深色](drawer-nested-initial-dark.png) |
+| [drawer-nested](https://ui.shadcn.com/examples/base/drawer-nested) | `nested` | `open` | `base-rhea` | [浅色](drawer-nested-open-light.png) · [深色](drawer-nested-open-dark.png) |
+| [drawer-non-modal](https://ui.shadcn.com/examples/base/drawer-non-modal) | `non-modal` | `initial` | `base-rhea` | [浅色](drawer-non-modal-initial-light.png) · [深色](drawer-non-modal-initial-dark.png) |
+| [drawer-non-modal](https://ui.shadcn.com/examples/base/drawer-non-modal) | `non-modal` | `open` | `base-rhea` | [浅色](drawer-non-modal-open-light.png) · [深色](drawer-non-modal-open-dark.png) |
+| [drawer-demo](https://ui.shadcn.com/examples/base/drawer-demo) | `default` | `open` | `base-rhea` | [浅色](drawer-default-open-light.png) · [深色](drawer-default-open-dark.png) |
+| [drawer-rtl](https://ui.shadcn.com/examples/base/drawer-rtl) | `rtl` | `initial` | `example-defined` | [浅色](drawer-rtl-initial-light.png) · [深色](drawer-rtl-initial-dark.png) |
+| [drawer-sides](https://ui.shadcn.com/examples/base/drawer-sides) | `sides` | `initial` | `base-rhea` | [浅色](drawer-sides-initial-light.png) · [深色](drawer-sides-initial-dark.png) |
+| [drawer-sides](https://ui.shadcn.com/examples/base/drawer-sides) | `sides` | `open` | `base-rhea` | [浅色](drawer-sides-open-light.png) · [深色](drawer-sides-open-dark.png) |
+| [drawer-snap-points](https://ui.shadcn.com/examples/base/drawer-snap-points) | `snap-points` | `initial` | `base-rhea` | [浅色](drawer-snap-points-initial-light.png) · [深色](drawer-snap-points-initial-dark.png) |
+| [drawer-snap-points](https://ui.shadcn.com/examples/base/drawer-snap-points) | `snap-points` | `open` | `base-rhea` | [浅色](drawer-snap-points-open-light.png) · [深色](drawer-snap-points-open-dark.png) |
+| [drawer-swipe-handle](https://ui.shadcn.com/examples/base/drawer-swipe-handle) | `swipe-handle` | `initial` | `base-rhea` | [浅色](drawer-swipe-handle-initial-light.png) · [深色](drawer-swipe-handle-initial-dark.png) |
