@@ -2,6 +2,8 @@
 
 覆盖 Compose Foundation 清单中可直接对应的 63 个组件。截图保留各官方示例的样式和初始状态，Popover 另有展开态。源码索引固定在 [shadcn 上游版本](https://github.com/shadcn-ui/ui/tree/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base)。截图来自官方部署页面，部署版本未单独公布。
 
+各组件页列出可用的变体和交互状态。补充截图按上游示例、状态和深浅色索引。
+
 | 组件 | 上游示例样式 | 参考截图 |
 | --- | --- | --- |
 | [Accordion](accordion/Index.md) | `base-nova` | [浅色](accordion/accordion-default-initial-light.png) · [深色](accordion/accordion-default-initial-dark.png) |

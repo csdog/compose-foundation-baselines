@@ -1,0 +1,102 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "api",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/carousel-api.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/carousel-api",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "carousel-api-initial-light.png",
+        "carousel-api-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "multiple",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/carousel-multiple.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/carousel-multiple",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "carousel-multiple-initial-light.png",
+        "carousel-multiple-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "orientation",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/carousel-orientation.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/carousel-orientation",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "carousel-orientation-initial-light.png",
+        "carousel-orientation-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "plugin",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/carousel-plugin.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/carousel-plugin",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "carousel-plugin-initial-light.png",
+        "carousel-plugin-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/carousel-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/carousel-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "carousel-rtl-initial-light.png",
+        "carousel-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "size",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/carousel-size.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/carousel-size",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "carousel-size-initial-light.png",
+        "carousel-size-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "spacing",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/carousel-spacing.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/carousel-spacing",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "carousel-spacing-initial-light.png",
+        "carousel-spacing-initial-dark.png"
+      ]
+    }
+  ]
+}
