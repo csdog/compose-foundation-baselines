@@ -6,3 +6,14 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Separator 浅色](separator-default-initial-light.png) |
 | 初始态 | 深色 | ![Separator 深色](separator-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [separator-list](https://ui.shadcn.com/examples/base/separator-list) | `list` | `initial` | `base-nova` | [浅色](separator-list-initial-light.png) · [深色](separator-list-initial-dark.png) |
+| [separator-menu](https://ui.shadcn.com/examples/base/separator-menu) | `menu` | `initial` | `base-nova` | [浅色](separator-menu-initial-light.png) · [深色](separator-menu-initial-dark.png) |
+| [separator-rtl](https://ui.shadcn.com/examples/base/separator-rtl) | `rtl` | `initial` | `example-defined` | [浅色](separator-rtl-initial-light.png) · [深色](separator-rtl-initial-dark.png) |
+| [separator-vertical](https://ui.shadcn.com/examples/base/separator-vertical) | `vertical` | `initial` | `base-nova` | [浅色](separator-vertical-initial-light.png) · [深色](separator-vertical-initial-dark.png) |
