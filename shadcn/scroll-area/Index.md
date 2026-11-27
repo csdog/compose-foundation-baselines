@@ -15,3 +15,5 @@
 | ---: | --- | --- | --- | --- | --- |
 | 1 | [scroll-area-horizontal-demo](https://ui.shadcn.com/examples/base/scroll-area-horizontal-demo) | `horizontal-demo` | `initial` | `base-nova` | [浅色](scroll-area-horizontal-demo-initial-light.png) · [深色](scroll-area-horizontal-demo-initial-dark.png) |
 | 2 | [scroll-area-rtl](https://ui.shadcn.com/examples/base/scroll-area-rtl) | `rtl` | `initial` | `example-defined` | [浅色](scroll-area-rtl-initial-light.png) · [深色](scroll-area-rtl-initial-dark.png) |
+| 3 | [scroll-area-demo](https://ui.shadcn.com/examples/base/scroll-area-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](scroll-area-default-keyboard-focused-light.png) · [深色](scroll-area-default-keyboard-focused-dark.png) |
+| 4 | [scroll-area-demo](https://ui.shadcn.com/examples/base/scroll-area-demo) | `default` | `keyboard-scrolled` | `base-nova` | [浅色](scroll-area-default-keyboard-scrolled-light.png) · [深色](scroll-area-default-keyboard-scrolled-dark.png) |
