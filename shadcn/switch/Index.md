@@ -20,3 +20,5 @@
 | 5 | [switch-invalid](https://ui.shadcn.com/examples/base/switch-invalid) | `invalid` | `initial` | `base-nova` | [浅色](switch-invalid-initial-light.png) · [深色](switch-invalid-initial-dark.png) |
 | 6 | [switch-rtl](https://ui.shadcn.com/examples/base/switch-rtl) | `rtl` | `initial` | `example-defined` | [浅色](switch-rtl-initial-light.png) · [深色](switch-rtl-initial-dark.png) |
 | 7 | [switch-sizes](https://ui.shadcn.com/examples/base/switch-sizes) | `sizes` | `initial` | `base-nova` | [浅色](switch-sizes-initial-light.png) · [深色](switch-sizes-initial-dark.png) |
+| 8 | [switch-demo](https://ui.shadcn.com/examples/base/switch-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](switch-default-keyboard-focused-light.png) · [深色](switch-default-keyboard-focused-dark.png) |
+| 9 | [switch-demo](https://ui.shadcn.com/examples/base/switch-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](switch-default-keyboard-activated-light.png) · [深色](switch-default-keyboard-activated-dark.png) |
