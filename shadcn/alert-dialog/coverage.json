@@ -171,6 +171,75 @@
           }
         }
       }
+    },
+    {
+      "variant": "media",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-media.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-media",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-media-open-light.png",
+        "alert-dialog-media-open-dark.png"
+      ],
+      "interaction": {
+        "target": "button",
+        "expect": "[role=alertdialog]",
+        "action": "click",
+        "settledPointer": [
+          719,
+          519
+        ],
+        "settleMilliseconds": 500
+      }
+    },
+    {
+      "variant": "small",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-small.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-small",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-small-open-light.png",
+        "alert-dialog-small-open-dark.png"
+      ],
+      "interaction": {
+        "target": "button",
+        "expect": "[role=alertdialog]",
+        "action": "click",
+        "settledPointer": [
+          719,
+          519
+        ],
+        "settleMilliseconds": 500
+      }
+    },
+    {
+      "variant": "small-media",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-small-media.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-small-media",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-small-media-open-light.png",
+        "alert-dialog-small-media-open-dark.png"
+      ],
+      "interaction": {
+        "target": "button",
+        "expect": "[role=alertdialog]",
+        "action": "click",
+        "settledPointer": [
+          719,
+          519
+        ],
+        "settleMilliseconds": 500
+      }
     }
   ]
 }

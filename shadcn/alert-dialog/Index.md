@@ -22,3 +22,6 @@
 | 7 | [alert-dialog-small-media](https://ui.shadcn.com/examples/base/alert-dialog-small-media) | `small-media` | `initial` | `base-nova` | [浅色](alert-dialog-small-media-initial-light.png) · [深色](alert-dialog-small-media-initial-dark.png) |
 | 8 | [alert-dialog-demo](https://ui.shadcn.com/examples/base/alert-dialog-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](alert-dialog-default-keyboard-focused-light.png) · [深色](alert-dialog-default-keyboard-focused-dark.png) |
 | 9 | [alert-dialog-demo](https://ui.shadcn.com/examples/base/alert-dialog-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](alert-dialog-default-keyboard-activated-light.png) · [深色](alert-dialog-default-keyboard-activated-dark.png) |
+| 10 | [alert-dialog-media](https://ui.shadcn.com/examples/base/alert-dialog-media) | `media` | `open` | `base-nova` | [浅色](alert-dialog-media-open-light.png) · [深色](alert-dialog-media-open-dark.png) |
+| 11 | [alert-dialog-small](https://ui.shadcn.com/examples/base/alert-dialog-small) | `small` | `open` | `base-nova` | [浅色](alert-dialog-small-open-light.png) · [深色](alert-dialog-small-open-dark.png) |
+| 12 | [alert-dialog-small-media](https://ui.shadcn.com/examples/base/alert-dialog-small-media) | `small-media` | `open` | `base-nova` | [浅色](alert-dialog-small-media-open-light.png) · [深色](alert-dialog-small-media-open-dark.png) |
