@@ -1,0 +1,208 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "auto-highlight",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-auto-highlight.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-auto-highlight",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-auto-highlight-initial-light.png",
+        "combobox-auto-highlight-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "basic",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-basic.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-basic",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-basic-initial-light.png",
+        "combobox-basic-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "clear",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-clear.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-clear",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-clear-initial-light.png",
+        "combobox-clear-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "custom",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-custom.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-custom",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-custom-initial-light.png",
+        "combobox-custom-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "disabled",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-disabled.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-disabled",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-disabled-initial-light.png",
+        "combobox-disabled-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "empty",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-default-empty-light.png",
+        "combobox-default-empty-dark.png"
+      ],
+      "interaction": {
+        "action": "fill:zzzz",
+        "target": "[role=combobox]",
+        "expect": "text:No items found."
+      }
+    },
+    {
+      "variant": "groups",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-groups.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-groups",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-groups-initial-light.png",
+        "combobox-groups-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "groups",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-groups.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-groups",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-groups-open-light.png",
+        "combobox-groups-open-dark.png"
+      ],
+      "interaction": {
+        "action": "press:ArrowDown",
+        "target": "[role=combobox]",
+        "expect": "[role=option]"
+      }
+    },
+    {
+      "variant": "input-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-input-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-input-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-input-group-initial-light.png",
+        "combobox-input-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "invalid",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-invalid.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-invalid",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-invalid-initial-light.png",
+        "combobox-invalid-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "multiple",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-multiple.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-multiple",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-multiple-initial-light.png",
+        "combobox-multiple-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-default-open-light.png",
+        "combobox-default-open-dark.png"
+      ],
+      "interaction": {
+        "action": "press:ArrowDown",
+        "target": "[role=combobox]",
+        "expect": "[role=option]"
+      }
+    },
+    {
+      "variant": "popup",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-popup.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-popup",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "combobox-popup-initial-light.png",
+        "combobox-popup-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/combobox-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/combobox-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "combobox-rtl-initial-light.png",
+        "combobox-rtl-initial-dark.png"
+      ]
+    }
+  ]
+}
