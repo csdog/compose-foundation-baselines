@@ -1,0 +1,120 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "basic",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/checkbox-basic.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/checkbox-basic",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "checkbox-basic-initial-light.png",
+        "checkbox-basic-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "checked",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/checkbox-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/checkbox-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "checkbox-default-checked-light.png",
+        "checkbox-default-checked-dark.png"
+      ],
+      "interaction": {
+        "action": "click",
+        "target": "[role=checkbox]",
+        "expect": "[role=checkbox][aria-labelledby=terms-checkbox-label][aria-checked=true]"
+      }
+    },
+    {
+      "variant": "description",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/checkbox-description.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/checkbox-description",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "checkbox-description-initial-light.png",
+        "checkbox-description-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "disabled",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/checkbox-disabled.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/checkbox-disabled",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "checkbox-disabled-initial-light.png",
+        "checkbox-disabled-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/checkbox-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/checkbox-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "checkbox-group-initial-light.png",
+        "checkbox-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "invalid",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/checkbox-invalid.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/checkbox-invalid",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "checkbox-invalid-initial-light.png",
+        "checkbox-invalid-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/checkbox-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/checkbox-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "checkbox-rtl-initial-light.png",
+        "checkbox-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "table",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/checkbox-table.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/checkbox-table",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "checkbox-table-initial-light.png",
+        "checkbox-table-initial-dark.png"
+      ]
+    }
+  ]
+}

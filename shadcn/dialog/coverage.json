@@ -1,0 +1,166 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "close-button",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-close-button.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-close-button",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-close-button-initial-light.png",
+        "dialog-close-button-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "no-close-button",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-no-close-button.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-no-close-button",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-no-close-button-initial-light.png",
+        "dialog-no-close-button-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "no-close-button",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-no-close-button.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-no-close-button",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-no-close-button-open-light.png",
+        "dialog-no-close-button-open-dark.png"
+      ],
+      "interaction": {
+        "action": "click",
+        "target": "button",
+        "expect": "[role=dialog]"
+      }
+    },
+    {
+      "variant": "default",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-default-open-light.png",
+        "dialog-default-open-dark.png"
+      ],
+      "interaction": {
+        "target": "button",
+        "expect": "[role=dialog]",
+        "action": "click"
+      }
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "dialog-rtl-initial-light.png",
+        "dialog-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "dialog-rtl-open-light.png",
+        "dialog-rtl-open-dark.png"
+      ],
+      "interaction": {
+        "action": "click",
+        "target": "button",
+        "expect": "[role=dialog]"
+      }
+    },
+    {
+      "variant": "scrollable-content",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-scrollable-content.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-scrollable-content",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-scrollable-content-initial-light.png",
+        "dialog-scrollable-content-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "scrollable-content",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-scrollable-content.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-scrollable-content",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-scrollable-content-open-light.png",
+        "dialog-scrollable-content-open-dark.png"
+      ],
+      "interaction": {
+        "action": "click",
+        "target": "button",
+        "expect": "[role=dialog]"
+      }
+    },
+    {
+      "variant": "sticky-footer",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-sticky-footer.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-sticky-footer",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-sticky-footer-initial-light.png",
+        "dialog-sticky-footer-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "sticky-footer",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/dialog-sticky-footer.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/dialog-sticky-footer",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "dialog-sticky-footer-open-light.png",
+        "dialog-sticky-footer-open-dark.png"
+      ],
+      "interaction": {
+        "action": "click",
+        "target": "button",
+        "expect": "[role=dialog]"
+      }
+    }
+  ]
+}

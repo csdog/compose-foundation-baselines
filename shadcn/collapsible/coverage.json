@@ -1,0 +1,81 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "basic",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/collapsible-basic.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/collapsible-basic",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "collapsible-basic-initial-light.png",
+        "collapsible-basic-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "file-tree",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/collapsible-file-tree.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/collapsible-file-tree",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "collapsible-file-tree-initial-light.png",
+        "collapsible-file-tree-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/collapsible-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/collapsible-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "collapsible-default-open-light.png",
+        "collapsible-default-open-dark.png"
+      ],
+      "interaction": {
+        "target": "role:button:Toggle details",
+        "expect": "text:100 Market St",
+        "action": "click"
+      }
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/collapsible-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/collapsible-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "collapsible-rtl-initial-light.png",
+        "collapsible-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "settings",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/collapsible-settings.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/collapsible-settings",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "collapsible-settings-initial-light.png",
+        "collapsible-settings-initial-dark.png"
+      ]
+    }
+  ]
+}
