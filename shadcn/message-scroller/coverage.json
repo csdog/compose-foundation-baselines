@@ -1,0 +1,154 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "anchoring",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-anchoring.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-anchoring",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-anchoring-initial-light.png",
+        "message-scroller-anchoring-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "animation",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-animation.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-animation",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-animation-initial-light.png",
+        "message-scroller-animation-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "commands",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-commands.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-commands",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-commands-initial-light.png",
+        "message-scroller-commands-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "group-chat",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-group-chat.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-group-chat",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-group-chat-initial-light.png",
+        "message-scroller-group-chat-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "load-history",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-load-history.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-load-history",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-load-history-initial-light.png",
+        "message-scroller-load-history-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "opening-position",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-opening-position.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-opening-position",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-opening-position-initial-light.png",
+        "message-scroller-opening-position-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "previous-context",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-previous-context.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-previous-context",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-previous-context-initial-light.png",
+        "message-scroller-previous-context-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "scrollable",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-scrollable.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-scrollable",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-scrollable-initial-light.png",
+        "message-scroller-scrollable-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "state",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-state.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-state",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-state-initial-light.png",
+        "message-scroller-state-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "streaming",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-streaming.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-streaming",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-streaming-initial-light.png",
+        "message-scroller-streaming-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "visibility",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-scroller-visibility.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-scroller-visibility",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-scroller-visibility-initial-light.png",
+        "message-scroller-visibility-initial-dark.png"
+      ]
+    }
+  ]
+}
