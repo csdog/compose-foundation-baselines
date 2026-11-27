@@ -6,3 +6,17 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Empty 浅色](empty-default-initial-light.png) |
 | 初始态 | 深色 | ![Empty 深色](empty-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [empty-avatar](https://ui.shadcn.com/examples/base/empty-avatar) | `avatar` | `initial` | `base-nova` | [浅色](empty-avatar-initial-light.png) · [深色](empty-avatar-initial-dark.png) |
+| [empty-avatar-group](https://ui.shadcn.com/examples/base/empty-avatar-group) | `avatar-group` | `initial` | `base-nova` | [浅色](empty-avatar-group-initial-light.png) · [深色](empty-avatar-group-initial-dark.png) |
+| [empty-background](https://ui.shadcn.com/examples/base/empty-background) | `background` | `initial` | `base-nova` | [浅色](empty-background-initial-light.png) · [深色](empty-background-initial-dark.png) |
+| [empty-card](https://ui.shadcn.com/examples/base/empty-card) | `card` | `initial` | `base-nova` | [浅色](empty-card-initial-light.png) · [深色](empty-card-initial-dark.png) |
+| [empty-input-group](https://ui.shadcn.com/examples/base/empty-input-group) | `input-group` | `initial` | `base-nova` | [浅色](empty-input-group-initial-light.png) · [深色](empty-input-group-initial-dark.png) |
+| [empty-outline](https://ui.shadcn.com/examples/base/empty-outline) | `outline` | `initial` | `base-nova` | [浅色](empty-outline-initial-light.png) · [深色](empty-outline-initial-dark.png) |
+| [empty-rtl](https://ui.shadcn.com/examples/base/empty-rtl) | `rtl` | `initial` | `example-defined` | [浅色](empty-rtl-initial-light.png) · [深色](empty-rtl-initial-dark.png) |

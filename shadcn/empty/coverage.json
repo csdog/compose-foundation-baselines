@@ -1,0 +1,102 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "avatar",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/empty-avatar.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/empty-avatar",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "empty-avatar-initial-light.png",
+        "empty-avatar-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "avatar-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/empty-avatar-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/empty-avatar-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "empty-avatar-group-initial-light.png",
+        "empty-avatar-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "background",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/empty-background.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/empty-background",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "empty-background-initial-light.png",
+        "empty-background-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "card",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/empty-card.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/empty-card",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "empty-card-initial-light.png",
+        "empty-card-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "input-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/empty-input-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/empty-input-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "empty-input-group-initial-light.png",
+        "empty-input-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "outline",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/empty-outline.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/empty-outline",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "empty-outline-initial-light.png",
+        "empty-outline-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/empty-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/empty-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "empty-rtl-initial-light.png",
+        "empty-rtl-initial-dark.png"
+      ]
+    }
+  ]
+}
