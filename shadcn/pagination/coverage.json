@@ -1,0 +1,50 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "icons-only",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/pagination-icons-only.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/pagination-icons-only",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "pagination-icons-only-initial-light.png",
+        "pagination-icons-only-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/pagination-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/pagination-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "pagination-rtl-initial-light.png",
+        "pagination-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "simple",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/pagination-simple.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/pagination-simple",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "pagination-simple-initial-light.png",
+        "pagination-simple-initial-dark.png"
+      ]
+    }
+  ]
+}
