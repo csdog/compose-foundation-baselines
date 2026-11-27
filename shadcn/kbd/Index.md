@@ -18,3 +18,4 @@
 | 3 | [kbd-input-group](https://ui.shadcn.com/examples/base/kbd-input-group) | `input-group` | `initial` | `base-nova` | [浅色](kbd-input-group-initial-light.png) · [深色](kbd-input-group-initial-dark.png) |
 | 4 | [kbd-rtl](https://ui.shadcn.com/examples/base/kbd-rtl) | `rtl` | `initial` | `example-defined` | [浅色](kbd-rtl-initial-light.png) · [深色](kbd-rtl-initial-dark.png) |
 | 5 | [kbd-tooltip](https://ui.shadcn.com/examples/base/kbd-tooltip) | `tooltip` | `initial` | `base-nova` | [浅色](kbd-tooltip-initial-light.png) · [深色](kbd-tooltip-initial-dark.png) |
+| 6 | [kbd-button](https://ui.shadcn.com/examples/base/kbd-button) | `button` | `keyboard-focused` | `base-nova` | [浅色](kbd-button-keyboard-focused-light.png) · [深色](kbd-button-keyboard-focused-dark.png) |
