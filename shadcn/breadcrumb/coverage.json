@@ -1,0 +1,89 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "basic",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/breadcrumb-basic.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/breadcrumb-basic",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "breadcrumb-basic-initial-light.png",
+        "breadcrumb-basic-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "dropdown",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/breadcrumb-dropdown.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/breadcrumb-dropdown",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "breadcrumb-dropdown-initial-light.png",
+        "breadcrumb-dropdown-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "ellipsis",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/breadcrumb-ellipsis.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/breadcrumb-ellipsis",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "breadcrumb-ellipsis-initial-light.png",
+        "breadcrumb-ellipsis-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "link",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/breadcrumb-link.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/breadcrumb-link",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "breadcrumb-link-initial-light.png",
+        "breadcrumb-link-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/breadcrumb-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/breadcrumb-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "breadcrumb-rtl-initial-light.png",
+        "breadcrumb-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "separator",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/breadcrumb-separator.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/breadcrumb-separator",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "breadcrumb-separator-initial-light.png",
+        "breadcrumb-separator-initial-dark.png"
+      ]
+    }
+  ]
+}
