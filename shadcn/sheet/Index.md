@@ -20,3 +20,5 @@
 | 5 | [sheet-rtl](https://ui.shadcn.com/examples/base/sheet-rtl) | `rtl` | `open` | `example-defined` | [浅色](sheet-rtl-open-light.png) · [深色](sheet-rtl-open-dark.png) |
 | 6 | [sheet-side](https://ui.shadcn.com/examples/base/sheet-side) | `side` | `initial` | `base-nova` | [浅色](sheet-side-initial-light.png) · [深色](sheet-side-initial-dark.png) |
 | 7 | [sheet-side](https://ui.shadcn.com/examples/base/sheet-side) | `side` | `open` | `base-nova` | [浅色](sheet-side-open-light.png) · [深色](sheet-side-open-dark.png) |
+| 8 | [sheet-demo](https://ui.shadcn.com/examples/base/sheet-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](sheet-default-keyboard-focused-light.png) · [深色](sheet-default-keyboard-focused-dark.png) |
+| 9 | [sheet-demo](https://ui.shadcn.com/examples/base/sheet-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](sheet-default-keyboard-activated-light.png) · [深色](sheet-default-keyboard-activated-dark.png) |
