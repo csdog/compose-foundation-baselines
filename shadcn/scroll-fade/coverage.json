@@ -84,6 +84,53 @@
         "scroll-fade-size-initial-light.png",
         "scroll-fade-size-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/scroll-fade-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/scroll-fade-demo",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "scroll-fade-default-keyboard-focused-light.png",
+        "scroll-fade-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "tag": "div",
+          "label": "Item 1Item 2Item 3Item 4Item 5Item 6Item 7Item 8Item 9Item 10Item 11Item 12",
+          "visible": true,
+          "paint": "none auto lab(90.952 0 -0.0000119209)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-scrolled",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/scroll-fade-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/scroll-fade-demo",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "scroll-fade-default-keyboard-scrolled-light.png",
+        "scroll-fade-default-keyboard-scrolled-dark.png"
+      ],
+      "interaction": {
+        "target": "Scrollable region",
+        "keys": [
+          "Tab",
+          "PageDown"
+        ],
+        "expect": "PageDown advances the focused region"
+      }
     }
   ]
 }
