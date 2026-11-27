@@ -1,0 +1,180 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "animated",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-animated.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-animated",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-animated-initial-light.png",
+        "questionnaire-animated-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "card",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-card.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-card",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-card-initial-light.png",
+        "questionnaire-card-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "conditional",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-conditional.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-conditional",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-conditional-initial-light.png",
+        "questionnaire-conditional-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "controlled",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-controlled.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-controlled",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-controlled-initial-light.png",
+        "questionnaire-controlled-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "dialog",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-dialog.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-dialog",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-dialog-initial-light.png",
+        "questionnaire-dialog-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "freeform",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-freeform.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-freeform",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-freeform-initial-light.png",
+        "questionnaire-freeform-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "multiple",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-multiple.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-multiple",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-multiple-initial-light.png",
+        "questionnaire-multiple-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "navigation-state",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-navigation-state.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-navigation-state",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-navigation-state-initial-light.png",
+        "questionnaire-navigation-state-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "progress",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-progress.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-progress",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-progress-initial-light.png",
+        "questionnaire-progress-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "resume",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-resume.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-resume",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-resume-initial-light.png",
+        "questionnaire-resume-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "shortcuts",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-shortcuts.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-shortcuts",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-shortcuts-initial-light.png",
+        "questionnaire-shortcuts-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "skip",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-skip.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-skip",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-skip-initial-light.png",
+        "questionnaire-skip-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "validation",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/questionnaire-validation.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/questionnaire-validation",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "questionnaire-validation-initial-light.png",
+        "questionnaire-validation-initial-dark.png"
+      ]
+    }
+  ]
+}
