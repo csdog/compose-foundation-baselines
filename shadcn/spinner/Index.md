@@ -6,3 +6,17 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Spinner 浅色](spinner-default-initial-light.png) |
 | 初始态 | 深色 | ![Spinner 深色](spinner-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [spinner-badge](https://ui.shadcn.com/examples/base/spinner-badge) | `badge` | `initial` | `base-nova` | [浅色](spinner-badge-initial-light.png) · [深色](spinner-badge-initial-dark.png) |
+| [spinner-button](https://ui.shadcn.com/examples/base/spinner-button) | `button` | `initial` | `base-nova` | [浅色](spinner-button-initial-light.png) · [深色](spinner-button-initial-dark.png) |
+| [spinner-custom](https://ui.shadcn.com/examples/base/spinner-custom) | `custom` | `initial` | `example-defined` | [浅色](spinner-custom-initial-light.png) · [深色](spinner-custom-initial-dark.png) |
+| [spinner-empty](https://ui.shadcn.com/examples/base/spinner-empty) | `empty` | `initial` | `base-nova` | [浅色](spinner-empty-initial-light.png) · [深色](spinner-empty-initial-dark.png) |
+| [spinner-input-group](https://ui.shadcn.com/examples/base/spinner-input-group) | `input-group` | `initial` | `base-nova` | [浅色](spinner-input-group-initial-light.png) · [深色](spinner-input-group-initial-dark.png) |
+| [spinner-rtl](https://ui.shadcn.com/examples/base/spinner-rtl) | `rtl` | `initial` | `example-defined` | [浅色](spinner-rtl-initial-light.png) · [深色](spinner-rtl-initial-dark.png) |
+| [spinner-size](https://ui.shadcn.com/examples/base/spinner-size) | `size` | `initial` | `base-nova` | [浅色](spinner-size-initial-light.png) · [深色](spinner-size-initial-dark.png) |

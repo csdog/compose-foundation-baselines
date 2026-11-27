@@ -1,0 +1,102 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "badge",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/spinner-badge.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/spinner-badge",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "spinner-badge-initial-light.png",
+        "spinner-badge-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "button",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/spinner-button.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/spinner-button",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "spinner-button-initial-light.png",
+        "spinner-button-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "custom",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/spinner-custom.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/spinner-custom",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "spinner-custom-initial-light.png",
+        "spinner-custom-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "empty",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/spinner-empty.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/spinner-empty",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "spinner-empty-initial-light.png",
+        "spinner-empty-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "input-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/spinner-input-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/spinner-input-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "spinner-input-group-initial-light.png",
+        "spinner-input-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/spinner-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/spinner-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "spinner-rtl-initial-light.png",
+        "spinner-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "size",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/spinner-size.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/spinner-size",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "spinner-size-initial-light.png",
+        "spinner-size-initial-dark.png"
+      ]
+    }
+  ]
+}

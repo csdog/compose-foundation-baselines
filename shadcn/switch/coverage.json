@@ -1,0 +1,107 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "choice-card",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/switch-choice-card.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/switch-choice-card",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "switch-choice-card-initial-light.png",
+        "switch-choice-card-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "on",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/switch-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/switch-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "switch-default-on-light.png",
+        "switch-default-on-dark.png"
+      ],
+      "interaction": {
+        "action": "click",
+        "target": "[role=switch]",
+        "expect": "[role=switch][aria-checked=true]"
+      }
+    },
+    {
+      "variant": "description",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/switch-description.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/switch-description",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "switch-description-initial-light.png",
+        "switch-description-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "disabled",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/switch-disabled.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/switch-disabled",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "switch-disabled-initial-light.png",
+        "switch-disabled-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "invalid",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/switch-invalid.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/switch-invalid",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "switch-invalid-initial-light.png",
+        "switch-invalid-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/switch-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/switch-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "switch-rtl-initial-light.png",
+        "switch-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "sizes",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/switch-sizes.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/switch-sizes",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "switch-sizes-initial-light.png",
+        "switch-sizes-initial-dark.png"
+      ]
+    }
+  ]
+}

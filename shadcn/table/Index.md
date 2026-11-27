@@ -6,3 +6,13 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Table 浅色](table-default-initial-light.png) |
 | 初始态 | 深色 | ![Table 深色](table-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [table-actions](https://ui.shadcn.com/examples/base/table-actions) | `actions` | `initial` | `base-nova` | [浅色](table-actions-initial-light.png) · [深色](table-actions-initial-dark.png) |
+| [table-footer](https://ui.shadcn.com/examples/base/table-footer) | `footer` | `initial` | `base-nova` | [浅色](table-footer-initial-light.png) · [深色](table-footer-initial-dark.png) |
+| [table-rtl](https://ui.shadcn.com/examples/base/table-rtl) | `rtl` | `initial` | `example-defined` | [浅色](table-rtl-initial-light.png) · [深色](table-rtl-initial-dark.png) |

@@ -6,3 +6,15 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Toast 浅色](toast-default-initial-light.png) |
 | 初始态 | 深色 | ![Toast 深色](toast-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [toast-promise](https://ui.shadcn.com/examples/base/toast-promise) | `promise` | `initial` | `base-nova` | [浅色](toast-promise-initial-light.png) · [深色](toast-promise-initial-dark.png) |
+| [toast-types](https://ui.shadcn.com/examples/base/toast-types) | `types` | `initial` | `base-nova` | [浅色](toast-types-initial-light.png) · [深色](toast-types-initial-dark.png) |
+| [toast-types](https://ui.shadcn.com/examples/base/toast-types) | `types` | `error` | `base-nova` | [浅色](toast-types-error-light.png) · [深色](toast-types-error-dark.png) |
+| [toast-types](https://ui.shadcn.com/examples/base/toast-types) | `types` | `success` | `base-nova` | [浅色](toast-types-success-light.png) · [深色](toast-types-success-dark.png) |
+| [toast-demo](https://ui.shadcn.com/examples/base/toast-demo) | `default` | `visible` | `base-nova` | [浅色](toast-default-visible-light.png) · [深色](toast-default-visible-dark.png) |

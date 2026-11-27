@@ -6,3 +6,17 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Switch 浅色](switch-default-initial-light.png) |
 | 初始态 | 深色 | ![Switch 深色](switch-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [switch-choice-card](https://ui.shadcn.com/examples/base/switch-choice-card) | `choice-card` | `initial` | `base-nova` | [浅色](switch-choice-card-initial-light.png) · [深色](switch-choice-card-initial-dark.png) |
+| [switch-demo](https://ui.shadcn.com/examples/base/switch-demo) | `default` | `on` | `base-nova` | [浅色](switch-default-on-light.png) · [深色](switch-default-on-dark.png) |
+| [switch-description](https://ui.shadcn.com/examples/base/switch-description) | `description` | `initial` | `base-nova` | [浅色](switch-description-initial-light.png) · [深色](switch-description-initial-dark.png) |
+| [switch-disabled](https://ui.shadcn.com/examples/base/switch-disabled) | `disabled` | `initial` | `base-nova` | [浅色](switch-disabled-initial-light.png) · [深色](switch-disabled-initial-dark.png) |
+| [switch-invalid](https://ui.shadcn.com/examples/base/switch-invalid) | `invalid` | `initial` | `base-nova` | [浅色](switch-invalid-initial-light.png) · [深色](switch-invalid-initial-dark.png) |
+| [switch-rtl](https://ui.shadcn.com/examples/base/switch-rtl) | `rtl` | `initial` | `example-defined` | [浅色](switch-rtl-initial-light.png) · [深色](switch-rtl-initial-dark.png) |
+| [switch-sizes](https://ui.shadcn.com/examples/base/switch-sizes) | `sizes` | `initial` | `base-nova` | [浅色](switch-sizes-initial-light.png) · [深色](switch-sizes-initial-dark.png) |

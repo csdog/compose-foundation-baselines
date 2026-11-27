@@ -1,0 +1,94 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "demo",
+      "state": "analytics",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/tabs-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/tabs-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "tabs-demo-analytics-light.png",
+        "tabs-demo-analytics-dark.png"
+      ],
+      "interaction": {
+        "target": "role:tab:Analytics",
+        "expect": "[role=tab][aria-selected=true]:has-text('Analytics')",
+        "action": "click"
+      }
+    },
+    {
+      "variant": "demo",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/tabs-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/tabs-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "tabs-demo-initial-light.png",
+        "tabs-demo-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "icons",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/tabs-icons.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/tabs-icons",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "tabs-icons-initial-light.png",
+        "tabs-icons-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "line",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/tabs-line.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/tabs-line",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "tabs-line-initial-light.png",
+        "tabs-line-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/tabs-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/tabs-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "tabs-rtl-initial-light.png",
+        "tabs-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "vertical",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/tabs-vertical.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/tabs-vertical",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "tabs-vertical-initial-light.png",
+        "tabs-vertical-initial-dark.png"
+      ]
+    }
+  ]
+}
