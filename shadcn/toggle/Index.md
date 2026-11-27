@@ -19,3 +19,5 @@
 | 4 | [toggle-rtl](https://ui.shadcn.com/examples/base/toggle-rtl) | `rtl` | `initial` | `example-defined` | [浅色](toggle-rtl-initial-light.png) · [深色](toggle-rtl-initial-dark.png) |
 | 5 | [toggle-sizes](https://ui.shadcn.com/examples/base/toggle-sizes) | `sizes` | `initial` | `base-nova` | [浅色](toggle-sizes-initial-light.png) · [深色](toggle-sizes-initial-dark.png) |
 | 6 | [toggle-text](https://ui.shadcn.com/examples/base/toggle-text) | `text` | `initial` | `base-nova` | [浅色](toggle-text-initial-light.png) · [深色](toggle-text-initial-dark.png) |
+| 7 | [toggle-demo](https://ui.shadcn.com/examples/base/toggle-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](toggle-default-keyboard-focused-light.png) · [深色](toggle-default-keyboard-focused-dark.png) |
+| 8 | [toggle-demo](https://ui.shadcn.com/examples/base/toggle-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](toggle-default-keyboard-activated-light.png) · [深色](toggle-default-keyboard-activated-dark.png) |

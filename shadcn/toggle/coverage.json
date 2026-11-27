@@ -89,6 +89,75 @@
         "toggle-text-initial-light.png",
         "toggle-text-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/toggle-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/toggle-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "toggle-default-keyboard-focused-light.png",
+        "toggle-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "toggle",
+          "tag": "button",
+          "label": "Toggle bookmark",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.228328) 0px 0px 0px 1.36997px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.824274 -0.00000819149 0.0000193177)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-activated",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/toggle-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/toggle-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "toggle-default-keyboard-activated-light.png",
+        "toggle-default-keyboard-activated-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "toggle",
+          "tag": "button",
+          "label": "Toggle bookmark",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.228328) 0px 0px 0px 1.36997px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.824274 -0.00000819149 0.0000193177)"
+        },
+        "keys": [
+          "Tab",
+          "Space"
+        ],
+        "expect": {
+          "key": "Space",
+          "region": null,
+          "attribute": "aria-pressed",
+          "beforeValue": "false",
+          "afterValue": "true",
+          "end": {
+            "role": null,
+            "slot": "toggle",
+            "tag": "button",
+            "label": "Toggle bookmark",
+            "visible": true,
+            "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.5) 0px 0px 0px 3px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none lab(66.128 -0.0000298023 0.0000119209)"
+          }
+        }
+      }
     }
   ]
 }
