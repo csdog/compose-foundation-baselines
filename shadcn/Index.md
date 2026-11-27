@@ -77,3 +77,8 @@
 | 69 | [Trace](trace/Index.md) | `base-rhea` | [浅色](trace/trace-default-initial-light.png) · [深色](trace/trace-default-initial-dark.png) |
 
 Chip、Emoji Text、Icon、Stepper、Text 和 Theme 在所核对的 shadcn Base UI 示例中未找到直接对应项。
+
+## Web 组合界面
+
+- [Blocks 截图](blocks/Index.md)
+- [Create 截图](create/Index.md)
