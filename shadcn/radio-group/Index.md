@@ -21,3 +21,4 @@
 | 6 | [radio-group-fieldset](https://ui.shadcn.com/examples/base/radio-group-fieldset) | `fieldset` | `initial` | `base-nova` | [浅色](radio-group-fieldset-initial-light.png) · [深色](radio-group-fieldset-initial-dark.png) |
 | 7 | [radio-group-invalid](https://ui.shadcn.com/examples/base/radio-group-invalid) | `invalid` | `initial` | `base-nova` | [浅色](radio-group-invalid-initial-light.png) · [深色](radio-group-invalid-initial-dark.png) |
 | 8 | [radio-group-rtl](https://ui.shadcn.com/examples/base/radio-group-rtl) | `rtl` | `initial` | `example-defined` | [浅色](radio-group-rtl-initial-light.png) · [深色](radio-group-rtl-initial-dark.png) |
+| 9 | [radio-group-demo](https://ui.shadcn.com/examples/base/radio-group-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](radio-group-default-keyboard-focused-light.png) · [深色](radio-group-default-keyboard-focused-dark.png) |
