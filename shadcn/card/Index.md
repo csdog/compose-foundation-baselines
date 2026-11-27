@@ -18,3 +18,4 @@
 | 3 | [card-rtl](https://ui.shadcn.com/examples/base/card-rtl) | `rtl` | `initial` | `example-defined` | [浅色](card-rtl-initial-light.png) · [深色](card-rtl-initial-dark.png) |
 | 4 | [card-small](https://ui.shadcn.com/examples/base/card-small) | `small` | `initial` | `base-nova` | [浅色](card-small-initial-light.png) · [深色](card-small-initial-dark.png) |
 | 5 | [card-spacing](https://ui.shadcn.com/examples/base/card-spacing) | `spacing` | `initial` | `base-nova` | [浅色](card-spacing-initial-light.png) · [深色](card-spacing-initial-dark.png) |
+| 6 | [card-demo](https://ui.shadcn.com/examples/base/card-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](card-default-keyboard-focused-light.png) · [深色](card-default-keyboard-focused-dark.png) |
