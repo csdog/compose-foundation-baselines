@@ -1,0 +1,102 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "demo",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/chart-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/chart-demo",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "chart-demo-initial-light.png",
+        "chart-demo-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "example-axis",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/chart-example-axis.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/chart-example-axis",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "chart-example-axis-initial-light.png",
+        "chart-example-axis-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "example-grid",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/chart-example-grid.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/chart-example-grid",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "chart-example-grid-initial-light.png",
+        "chart-example-grid-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "example-legend",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/chart-example-legend.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/chart-example-legend",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "chart-example-legend-initial-light.png",
+        "chart-example-legend-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "example-tooltip",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/chart-example-tooltip.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/chart-example-tooltip",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "chart-example-tooltip-initial-light.png",
+        "chart-example-tooltip-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/chart-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/chart-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "chart-rtl-initial-light.png",
+        "chart-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "tooltip",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/chart-tooltip.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/chart-tooltip",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "chart-tooltip-initial-light.png",
+        "chart-tooltip-initial-dark.png"
+      ]
+    }
+  ]
+}
