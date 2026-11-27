@@ -18,3 +18,4 @@
 | 3 | [attachment-sizes](https://ui.shadcn.com/examples/base/attachment-sizes) | `sizes` | `initial` | `base-rhea` | [浅色](attachment-sizes-initial-light.png) · [深色](attachment-sizes-initial-dark.png) |
 | 4 | [attachment-states](https://ui.shadcn.com/examples/base/attachment-states) | `states` | `initial` | `base-rhea` | [浅色](attachment-states-initial-light.png) · [深色](attachment-states-initial-dark.png) |
 | 5 | [attachment-trigger](https://ui.shadcn.com/examples/base/attachment-trigger) | `trigger` | `initial` | `base-rhea` | [浅色](attachment-trigger-initial-light.png) · [深色](attachment-trigger-initial-dark.png) |
+| 6 | [attachment-demo](https://ui.shadcn.com/examples/base/attachment-demo) | `default` | `keyboard-focused` | `base-rhea` | [浅色](attachment-default-keyboard-focused-light.png) · [深色](attachment-default-keyboard-focused-dark.png) |
