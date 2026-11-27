@@ -20,3 +20,4 @@
 | 5 | [command-rtl](https://ui.shadcn.com/examples/base/command-rtl) | `rtl` | `initial` | `example-defined` | [浅色](command-rtl-initial-light.png) · [深色](command-rtl-initial-dark.png) |
 | 6 | [command-scrollable](https://ui.shadcn.com/examples/base/command-scrollable) | `scrollable` | `initial` | `base-nova` | [浅色](command-scrollable-initial-light.png) · [深色](command-scrollable-initial-dark.png) |
 | 7 | [command-shortcuts](https://ui.shadcn.com/examples/base/command-shortcuts) | `shortcuts` | `initial` | `base-nova` | [浅色](command-shortcuts-initial-light.png) · [深色](command-shortcuts-initial-dark.png) |
+| 8 | [command-demo](https://ui.shadcn.com/examples/base/command-demo) | `default` | `keyboard-navigated` | `base-nova` | [浅色](command-default-keyboard-navigated-light.png) · [深色](command-default-keyboard-navigated-dark.png) |
