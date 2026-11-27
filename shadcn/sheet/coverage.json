@@ -186,6 +186,54 @@
           }
         }
       }
+    },
+    {
+      "variant": "side-bottom",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sheet-side.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sheet-side",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sheet-side-bottom-open-light.png",
+        "sheet-side-bottom-open-dark.png"
+      ],
+      "interaction": {
+        "target": "button[aria-haspopup=dialog]",
+        "triggerIndex": 2,
+        "expect": "[role=dialog]",
+        "action": "click",
+        "settledPointer": [
+          719,
+          519
+        ],
+        "settleMilliseconds": 500
+      }
+    },
+    {
+      "variant": "side-left",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sheet-side.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sheet-side",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sheet-side-left-open-light.png",
+        "sheet-side-left-open-dark.png"
+      ],
+      "interaction": {
+        "target": "button[aria-haspopup=dialog]",
+        "triggerIndex": 3,
+        "expect": "[role=dialog]",
+        "action": "click",
+        "settledPointer": [
+          719,
+          519
+        ],
+        "settleMilliseconds": 500
+      }
     }
   ]
 }
