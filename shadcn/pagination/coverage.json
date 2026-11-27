@@ -45,6 +45,33 @@
         "pagination-simple-initial-light.png",
         "pagination-simple-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/pagination-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/pagination-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "pagination-default-keyboard-focused-light.png",
+        "pagination-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": "button",
+          "slot": "pagination-link",
+          "tag": "a",
+          "label": "Go to previous page",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.228346) 0px 0px 0px 1.37008px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.707999 -0.00000712276 0.0000166297 / 0.456692)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
     }
   ]
 }

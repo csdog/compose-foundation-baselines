@@ -16,3 +16,4 @@
 | 1 | [pagination-icons-only](https://ui.shadcn.com/examples/base/pagination-icons-only) | `icons-only` | `initial` | `base-nova` | [浅色](pagination-icons-only-initial-light.png) · [深色](pagination-icons-only-initial-dark.png) |
 | 2 | [pagination-rtl](https://ui.shadcn.com/examples/base/pagination-rtl) | `rtl` | `initial` | `example-defined` | [浅色](pagination-rtl-initial-light.png) · [深色](pagination-rtl-initial-dark.png) |
 | 3 | [pagination-simple](https://ui.shadcn.com/examples/base/pagination-simple) | `simple` | `initial` | `base-nova` | [浅色](pagination-simple-initial-light.png) · [深色](pagination-simple-initial-dark.png) |
+| 4 | [pagination-demo](https://ui.shadcn.com/examples/base/pagination-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](pagination-default-keyboard-focused-light.png) · [深色](pagination-default-keyboard-focused-dark.png) |
