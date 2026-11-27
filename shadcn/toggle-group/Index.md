@@ -21,3 +21,4 @@
 | 6 | [toggle-group-sizes](https://ui.shadcn.com/examples/base/toggle-group-sizes) | `sizes` | `initial` | `base-nova` | [浅色](toggle-group-sizes-initial-light.png) · [深色](toggle-group-sizes-initial-dark.png) |
 | 7 | [toggle-group-spacing](https://ui.shadcn.com/examples/base/toggle-group-spacing) | `spacing` | `initial` | `base-nova` | [浅色](toggle-group-spacing-initial-light.png) · [深色](toggle-group-spacing-initial-dark.png) |
 | 8 | [toggle-group-vertical](https://ui.shadcn.com/examples/base/toggle-group-vertical) | `vertical` | `initial` | `base-nova` | [浅色](toggle-group-vertical-initial-light.png) · [深色](toggle-group-vertical-initial-dark.png) |
+| 9 | [toggle-group-demo](https://ui.shadcn.com/examples/base/toggle-group-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](toggle-group-default-keyboard-focused-light.png) · [深色](toggle-group-default-keyboard-focused-dark.png) |
