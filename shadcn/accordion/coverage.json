@@ -1,0 +1,107 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "basic",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-basic.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-basic",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "accordion-basic-initial-light.png",
+        "accordion-basic-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "borders",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-borders.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-borders",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "accordion-borders-initial-light.png",
+        "accordion-borders-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "card",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-card.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-card",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "accordion-card-initial-light.png",
+        "accordion-card-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "disabled",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-disabled.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-disabled",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "accordion-disabled-initial-light.png",
+        "accordion-disabled-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "multiple",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-multiple.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-multiple",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "accordion-multiple-initial-light.png",
+        "accordion-multiple-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "returns-open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "accordion-default-returns-open-light.png",
+        "accordion-default-returns-open-dark.png"
+      ],
+      "interaction": {
+        "target": "text:return policy",
+        "expect": "text:within 30 days",
+        "action": "click"
+      }
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "accordion-rtl-initial-light.png",
+        "accordion-rtl-initial-dark.png"
+      ]
+    }
+  ]
+}
