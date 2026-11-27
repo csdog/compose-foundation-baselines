@@ -86,6 +86,33 @@
         "expect": "[data-slot=toast]",
         "action": "click"
       }
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/toast-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/toast-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "toast-default-keyboard-focused-light.png",
+        "toast-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "button",
+          "tag": "button",
+          "label": "Show Toast",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.418296) 0px 0px 0px 2.50978px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.742968 -0.00000744417 0.0000174381)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
     }
   ]
 }
