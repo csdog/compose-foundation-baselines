@@ -6,3 +6,16 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Badge 浅色](badge-default-initial-light.png) |
 | 初始态 | 深色 | ![Badge 深色](badge-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [badge-colors](https://ui.shadcn.com/examples/base/badge-colors) | `colors` | `initial` | `base-nova` | [浅色](badge-colors-initial-light.png) · [深色](badge-colors-initial-dark.png) |
+| [badge-icon](https://ui.shadcn.com/examples/base/badge-icon) | `icon` | `initial` | `base-nova` | [浅色](badge-icon-initial-light.png) · [深色](badge-icon-initial-dark.png) |
+| [badge-link](https://ui.shadcn.com/examples/base/badge-link) | `link` | `initial` | `base-nova` | [浅色](badge-link-initial-light.png) · [深色](badge-link-initial-dark.png) |
+| [badge-rtl](https://ui.shadcn.com/examples/base/badge-rtl) | `rtl` | `initial` | `example-defined` | [浅色](badge-rtl-initial-light.png) · [深色](badge-rtl-initial-dark.png) |
+| [badge-spinner](https://ui.shadcn.com/examples/base/badge-spinner) | `spinner` | `initial` | `base-nova` | [浅色](badge-spinner-initial-light.png) · [深色](badge-spinner-initial-dark.png) |
+| [badge-variants](https://ui.shadcn.com/examples/base/badge-variants) | `variants` | `initial` | `base-nova` | [浅色](badge-variants-initial-light.png) · [深色](badge-variants-initial-dark.png) |
