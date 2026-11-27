@@ -19,3 +19,6 @@
 | 4 | [tabs-line](https://ui.shadcn.com/examples/base/tabs-line) | `line` | `initial` | `base-nova` | [浅色](tabs-line-initial-light.png) · [深色](tabs-line-initial-dark.png) |
 | 5 | [tabs-rtl](https://ui.shadcn.com/examples/base/tabs-rtl) | `rtl` | `initial` | `example-defined` | [浅色](tabs-rtl-initial-light.png) · [深色](tabs-rtl-initial-dark.png) |
 | 6 | [tabs-vertical](https://ui.shadcn.com/examples/base/tabs-vertical) | `vertical` | `initial` | `base-nova` | [浅色](tabs-vertical-initial-light.png) · [深色](tabs-vertical-initial-dark.png) |
+| 7 | [tabs-disabled](https://ui.shadcn.com/examples/base/tabs-disabled) | `default` | `disabled-focused` | `base-nova` | [浅色](tabs-default-disabled-focused-light.png) · [深色](tabs-default-disabled-focused-dark.png) |
+
+在 `tabs-disabled` 示例中，按右方向键可将焦点移到 `Disabled`。按 Enter 或空格后，选中项仍是 `Home`。
