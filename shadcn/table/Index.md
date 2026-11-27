@@ -16,3 +16,4 @@
 | 1 | [table-actions](https://ui.shadcn.com/examples/base/table-actions) | `actions` | `initial` | `base-nova` | [浅色](table-actions-initial-light.png) · [深色](table-actions-initial-dark.png) |
 | 2 | [table-footer](https://ui.shadcn.com/examples/base/table-footer) | `footer` | `initial` | `base-nova` | [浅色](table-footer-initial-light.png) · [深色](table-footer-initial-dark.png) |
 | 3 | [table-rtl](https://ui.shadcn.com/examples/base/table-rtl) | `rtl` | `initial` | `example-defined` | [浅色](table-rtl-initial-light.png) · [深色](table-rtl-initial-dark.png) |
+| 4 | [table-actions](https://ui.shadcn.com/examples/base/table-actions) | `actions` | `keyboard-focused` | `base-nova` | [浅色](table-actions-keyboard-focused-light.png) · [深色](table-actions-keyboard-focused-dark.png) |
