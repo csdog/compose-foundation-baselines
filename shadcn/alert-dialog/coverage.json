@@ -1,0 +1,107 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "basic",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-basic.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-basic",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-basic-initial-light.png",
+        "alert-dialog-basic-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "destructive",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-destructive.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-destructive",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-destructive-initial-light.png",
+        "alert-dialog-destructive-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "media",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-media.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-media",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-media-initial-light.png",
+        "alert-dialog-media-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-default-open-light.png",
+        "alert-dialog-default-open-dark.png"
+      ],
+      "interaction": {
+        "target": "button",
+        "expect": "[role=alertdialog]",
+        "action": "click"
+      }
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "alert-dialog-rtl-initial-light.png",
+        "alert-dialog-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "small",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-small.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-small",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-small-initial-light.png",
+        "alert-dialog-small-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "small-media",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/alert-dialog-small-media.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/alert-dialog-small-media",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "alert-dialog-small-media-initial-light.png",
+        "alert-dialog-small-media-initial-dark.png"
+      ]
+    }
+  ]
+}
