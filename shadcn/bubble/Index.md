@@ -22,3 +22,4 @@
 | 7 | [bubble-reactions](https://ui.shadcn.com/examples/base/bubble-reactions) | `reactions` | `initial` | `base-rhea` | [浅色](bubble-reactions-initial-light.png) · [深色](bubble-reactions-initial-dark.png) |
 | 8 | [bubble-tooltip](https://ui.shadcn.com/examples/base/bubble-tooltip) | `tooltip` | `initial` | `base-rhea` | [浅色](bubble-tooltip-initial-light.png) · [深色](bubble-tooltip-initial-dark.png) |
 | 9 | [bubble-variants](https://ui.shadcn.com/examples/base/bubble-variants) | `variants` | `initial` | `base-rhea` | [浅色](bubble-variants-initial-light.png) · [深色](bubble-variants-initial-dark.png) |
+| 10 | [bubble-link-button](https://ui.shadcn.com/examples/base/bubble-link-button) | `link-button` | `keyboard-focused` | `base-rhea` | [浅色](bubble-link-button-keyboard-focused-light.png) · [深色](bubble-link-button-keyboard-focused-dark.png) |
