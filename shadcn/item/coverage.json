@@ -1,0 +1,167 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "avatar",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-avatar.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-avatar",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-avatar-initial-light.png",
+        "item-avatar-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "dropdown",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-dropdown.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-dropdown",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-dropdown-initial-light.png",
+        "item-dropdown-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-group-initial-light.png",
+        "item-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "header",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-header.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-header",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-header-initial-light.png",
+        "item-header-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "icon",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-icon.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-icon",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-icon-initial-light.png",
+        "item-icon-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "image",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-image.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-image",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-image-initial-light.png",
+        "item-image-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "link",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-link.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-link",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-link-initial-light.png",
+        "item-link-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "item-rtl-initial-light.png",
+        "item-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "size",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-size.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-size",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-size-initial-light.png",
+        "item-size-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "variant",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-variant.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-variant",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-variant-initial-light.png",
+        "item-variant-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "muted-item-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/muted-item-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/muted-item-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-muted-item-group-initial-light.png",
+        "item-muted-item-group-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "outline-item-group",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/outline-item-group.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/outline-item-group",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-outline-item-group-initial-light.png",
+        "item-outline-item-group-initial-dark.png"
+      ]
+    }
+  ]
+}
