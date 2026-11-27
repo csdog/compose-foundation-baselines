@@ -1,6 +1,8 @@
 # Popover
 
-| 组件 | 变体 | 状态 | 主题 | 截图 |
-| --- | --- | --- | --- | --- |
-| Popover | `default` | `open=true` | 浅色 | ![Popover 展开态，浅色](./popover-default-open-light.png) |
-| Popover | `default` | `open=true` | 深色 | ![Popover 展开态，深色](./popover-default-open-dark.png) |
+对照状态为展开态。 [shadcn 示例和采集记录](../../shadcn/popover/Index.md)
+
+| 主题 | Compose Desktop | shadcn 视觉基准 |
+| --- | --- | --- |
+| 浅色 | ![Popover 浅色](popover-default-open-light.png) | ![shadcn 浅色](../../shadcn/popover/popover-default-open-light.png) |
+| 深色 | ![Popover 深色](popover-default-open-dark.png) | ![shadcn 深色](../../shadcn/popover/popover-default-open-dark.png) |

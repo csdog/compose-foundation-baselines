@@ -1,12 +1,13 @@
 # 组件截图索引
 
-| 平台 | 基准目录 |
-| --- | --- |
-| Compose Web | [`web/`](./web/) |
-| Compose Multiplatform Android | [`mobile/cmp-android/`](./mobile/cmp-android/) |
-| SwiftUI iOS | [`mobile/swiftui/`](./mobile/swiftui/) |
-| Compose Desktop | [`cmp-desktop/`](./cmp-desktop/Index.md) |
-| shadcn 上游参考 | [`shadcn/`](./shadcn/Index.md) |
+shadcn 是跨平台外观验收的默认视觉基准。平台索引按组件链接 shadcn 参考图和已采集的本端截图。
 
-Web 和移动端的已审核截图按组件存放，文件名包含变体、状态和深浅色。
-来源提交和审核运行记录在基准提交说明中。
+| 图集 | 索引 |
+| --- | --- |
+| shadcn 上游视觉基准 | [组件和参考截图](shadcn/Index.md) |
+| Compose Web | [Compose Web](./web/Index.md) |
+| Compose Multiplatform Android | [Compose Multiplatform Android](./mobile/cmp-android/Index.md) |
+| SwiftUI iOS | [SwiftUI iOS](./mobile/swiftui/Index.md) |
+| Compose Desktop | [Compose Desktop](./cmp-desktop/Index.md) |
+
+本端截图文件名包含变体、状态和深浅色。来源提交和审核运行记录见基准提交说明。

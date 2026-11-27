@@ -32,5 +32,22 @@
     "height": 324
   },
   "fontSha256": "3626eba547294501c8a4d662c7d9ea3b49734409a4c5a1ccf12fa86429b1687e",
-  "capture": "Pinned upstream code in a local preview wrapper; Popover opened by Playwright"
+  "capture": "Pinned upstream code in a local preview wrapper; Popover opened by Playwright",
+  "initialCapture": {
+    "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+    "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/popover-demo.tsx",
+    "hostedExample": "https://ui.shadcn.com/examples/base/popover-demo",
+    "capture": "Official hosted example rendered in Chromium; light and dark applied to its document. The hosted deployment revision is not declared.",
+    "sourceExampleStyle": "base-nova",
+    "browser": "156.0.8078.79",
+    "viewport": {
+      "width": 720,
+      "height": 520
+    },
+    "state": "initial",
+    "images": [
+      "popover-default-initial-light.png",
+      "popover-default-initial-dark.png"
+    ]
+  }
 }
