@@ -97,6 +97,33 @@
         "message-pattern-initial-light.png",
         "message-pattern-initial-dark.png"
       ]
+    },
+    {
+      "variant": "actions",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/message-actions.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/message-actions",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "message-actions-keyboard-focused-light.png",
+        "message-actions-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "button",
+          "tag": "button",
+          "label": "Copy",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.00975104) 0px 0px 0px 0.0975104px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.707999 -0.00000712276 0.0000166297 / 0.0325035)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
     }
   ]
 }

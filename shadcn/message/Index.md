@@ -20,3 +20,4 @@
 | 5 | [message-header-footer](https://ui.shadcn.com/examples/base/message-header-footer) | `header-footer` | `initial` | `base-rhea` | [浅色](message-header-footer-initial-light.png) · [深色](message-header-footer-initial-dark.png) |
 | 6 | [message-markdown](https://ui.shadcn.com/examples/base/message-markdown) | `markdown` | `initial` | `base-rhea` | [浅色](message-markdown-initial-light.png) · [深色](message-markdown-initial-dark.png) |
 | 7 | [message-pattern](https://ui.shadcn.com/examples/base/message-pattern) | `pattern` | `initial` | `base-rhea` | [浅色](message-pattern-initial-light.png) · [深色](message-pattern-initial-dark.png) |
+| 8 | [message-actions](https://ui.shadcn.com/examples/base/message-actions) | `actions` | `keyboard-focused` | `base-rhea` | [浅色](message-actions-keyboard-focused-light.png) · [深色](message-actions-keyboard-focused-dark.png) |
