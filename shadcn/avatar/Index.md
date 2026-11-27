@@ -6,3 +6,19 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Avatar 浅色](avatar-default-initial-light.png) |
 | 初始态 | 深色 | ![Avatar 深色](avatar-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [avatar-badge](https://ui.shadcn.com/examples/base/avatar-badge) | `badge` | `initial` | `base-nova` | [浅色](avatar-badge-initial-light.png) · [深色](avatar-badge-initial-dark.png) |
+| [avatar-badge-icon](https://ui.shadcn.com/examples/base/avatar-badge-icon) | `badge-icon` | `initial` | `base-nova` | [浅色](avatar-badge-icon-initial-light.png) · [深色](avatar-badge-icon-initial-dark.png) |
+| [avatar-basic](https://ui.shadcn.com/examples/base/avatar-basic) | `basic` | `initial` | `base-nova` | [浅色](avatar-basic-initial-light.png) · [深色](avatar-basic-initial-dark.png) |
+| [avatar-dropdown](https://ui.shadcn.com/examples/base/avatar-dropdown) | `dropdown` | `initial` | `base-nova` | [浅色](avatar-dropdown-initial-light.png) · [深色](avatar-dropdown-initial-dark.png) |
+| [avatar-group](https://ui.shadcn.com/examples/base/avatar-group) | `group` | `initial` | `base-nova` | [浅色](avatar-group-initial-light.png) · [深色](avatar-group-initial-dark.png) |
+| [avatar-group-count](https://ui.shadcn.com/examples/base/avatar-group-count) | `group-count` | `initial` | `base-nova` | [浅色](avatar-group-count-initial-light.png) · [深色](avatar-group-count-initial-dark.png) |
+| [avatar-group-count-icon](https://ui.shadcn.com/examples/base/avatar-group-count-icon) | `group-count-icon` | `initial` | `base-nova` | [浅色](avatar-group-count-icon-initial-light.png) · [深色](avatar-group-count-icon-initial-dark.png) |
+| [avatar-rtl](https://ui.shadcn.com/examples/base/avatar-rtl) | `rtl` | `initial` | `example-defined` | [浅色](avatar-rtl-initial-light.png) · [深色](avatar-rtl-initial-dark.png) |
+| [avatar-size](https://ui.shadcn.com/examples/base/avatar-size) | `size` | `initial` | `base-nova` | [浅色](avatar-size-initial-light.png) · [深色](avatar-size-initial-dark.png) |
