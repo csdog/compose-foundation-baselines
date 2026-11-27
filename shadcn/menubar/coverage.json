@@ -1,0 +1,94 @@
+{
+  "sourceIndexRevision": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+  "capture": "Official hosted examples rendered in Chromium. Light and dark applied to the document, reduced motion requested. The hosted deployment revision is not declared.",
+  "browser": "156.0.8078.79",
+  "viewport": {
+    "width": 720,
+    "height": 520
+  },
+  "captures": [
+    {
+      "variant": "checkbox",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/menubar-checkbox.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/menubar-checkbox",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "menubar-checkbox-initial-light.png",
+        "menubar-checkbox-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "icons",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/menubar-icons.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/menubar-icons",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "menubar-icons-initial-light.png",
+        "menubar-icons-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "default",
+      "state": "open",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/menubar-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/menubar-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "menubar-default-open-light.png",
+        "menubar-default-open-dark.png"
+      ],
+      "interaction": {
+        "target": "text:File",
+        "expect": "[role=menu]",
+        "action": "click"
+      }
+    },
+    {
+      "variant": "radio",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/menubar-radio.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/menubar-radio",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "menubar-radio-initial-light.png",
+        "menubar-radio-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "rtl",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/menubar-rtl.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/menubar-rtl",
+      "sourceExampleStyles": [
+        "example-defined"
+      ],
+      "images": [
+        "menubar-rtl-initial-light.png",
+        "menubar-rtl-initial-dark.png"
+      ]
+    },
+    {
+      "variant": "submenu",
+      "state": "initial",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/menubar-submenu.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/menubar-submenu",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "menubar-submenu-initial-light.png",
+        "menubar-submenu-initial-dark.png"
+      ]
+    }
+  ]
+}
