@@ -20,3 +20,5 @@
 | 5 | [accordion-multiple](https://ui.shadcn.com/examples/base/accordion-multiple) | `multiple` | `initial` | `base-nova` | [浅色](accordion-multiple-initial-light.png) · [深色](accordion-multiple-initial-dark.png) |
 | 6 | [accordion-demo](https://ui.shadcn.com/examples/base/accordion-demo) | `default` | `returns-open` | `base-nova` | [浅色](accordion-default-returns-open-light.png) · [深色](accordion-default-returns-open-dark.png) |
 | 7 | [accordion-rtl](https://ui.shadcn.com/examples/base/accordion-rtl) | `rtl` | `initial` | `example-defined` | [浅色](accordion-rtl-initial-light.png) · [深色](accordion-rtl-initial-dark.png) |
+| 8 | [accordion-demo](https://ui.shadcn.com/examples/base/accordion-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](accordion-default-keyboard-focused-light.png) · [深色](accordion-default-keyboard-focused-dark.png) |
+| 9 | [accordion-demo](https://ui.shadcn.com/examples/base/accordion-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](accordion-default-keyboard-activated-light.png) · [深色](accordion-default-keyboard-activated-dark.png) |
