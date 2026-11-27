@@ -36,3 +36,4 @@
 | 21 | [input-group-with-buttons](https://ui.shadcn.com/examples/base/input-group-with-buttons) | `with-buttons` | `initial` | `base-nova` | [浅色](input-group-with-buttons-initial-light.png) · [深色](input-group-with-buttons-initial-dark.png) |
 | 22 | [input-group-with-kbd](https://ui.shadcn.com/examples/base/input-group-with-kbd) | `with-kbd` | `initial` | `base-nova` | [浅色](input-group-with-kbd-initial-light.png) · [深色](input-group-with-kbd-initial-dark.png) |
 | 23 | [input-group-with-tooltip](https://ui.shadcn.com/examples/base/input-group-with-tooltip) | `with-tooltip` | `initial` | `base-nova` | [浅色](input-group-with-tooltip-initial-light.png) · [深色](input-group-with-tooltip-initial-dark.png) |
+| 24 | [input-group-demo](https://ui.shadcn.com/examples/base/input-group-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](input-group-default-keyboard-focused-light.png) · [深色](input-group-default-keyboard-focused-dark.png) |
