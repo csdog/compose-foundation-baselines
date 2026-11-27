@@ -6,3 +6,15 @@
 | --- | --- | --- |
 | 初始态 | 浅色 | ![Collapsible 浅色](collapsible-default-initial-light.png) |
 | 初始态 | 深色 | ![Collapsible 深色](collapsible-default-initial-dark.png) |
+
+## 变体和交互状态
+
+[采集记录](coverage.json)
+
+| 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
+| --- | --- | --- | --- | --- |
+| [collapsible-basic](https://ui.shadcn.com/examples/base/collapsible-basic) | `basic` | `initial` | `base-nova` | [浅色](collapsible-basic-initial-light.png) · [深色](collapsible-basic-initial-dark.png) |
+| [collapsible-file-tree](https://ui.shadcn.com/examples/base/collapsible-file-tree) | `file-tree` | `initial` | `base-nova` | [浅色](collapsible-file-tree-initial-light.png) · [深色](collapsible-file-tree-initial-dark.png) |
+| [collapsible-demo](https://ui.shadcn.com/examples/base/collapsible-demo) | `default` | `open` | `base-nova` | [浅色](collapsible-default-open-light.png) · [深色](collapsible-default-open-dark.png) |
+| [collapsible-rtl](https://ui.shadcn.com/examples/base/collapsible-rtl) | `rtl` | `initial` | `example-defined` | [浅色](collapsible-rtl-initial-light.png) · [深色](collapsible-rtl-initial-dark.png) |
+| [collapsible-settings](https://ui.shadcn.com/examples/base/collapsible-settings) | `settings` | `initial` | `base-nova` | [浅色](collapsible-settings-initial-light.png) · [深色](collapsible-settings-initial-dark.png) |
