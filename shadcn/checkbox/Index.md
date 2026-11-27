@@ -21,3 +21,5 @@
 | 6 | [checkbox-invalid](https://ui.shadcn.com/examples/base/checkbox-invalid) | `invalid` | `initial` | `base-nova` | [浅色](checkbox-invalid-initial-light.png) · [深色](checkbox-invalid-initial-dark.png) |
 | 7 | [checkbox-rtl](https://ui.shadcn.com/examples/base/checkbox-rtl) | `rtl` | `initial` | `example-defined` | [浅色](checkbox-rtl-initial-light.png) · [深色](checkbox-rtl-initial-dark.png) |
 | 8 | [checkbox-table](https://ui.shadcn.com/examples/base/checkbox-table) | `table` | `initial` | `base-nova` | [浅色](checkbox-table-initial-light.png) · [深色](checkbox-table-initial-dark.png) |
+| 9 | [checkbox-demo](https://ui.shadcn.com/examples/base/checkbox-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](checkbox-default-keyboard-focused-light.png) · [深色](checkbox-default-keyboard-focused-dark.png) |
+| 10 | [checkbox-demo](https://ui.shadcn.com/examples/base/checkbox-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](checkbox-default-keyboard-activated-light.png) · [深色](checkbox-default-keyboard-activated-dark.png) |
