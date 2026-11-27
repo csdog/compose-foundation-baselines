@@ -22,3 +22,4 @@
 | 7 | [avatar-group-count-icon](https://ui.shadcn.com/examples/base/avatar-group-count-icon) | `group-count-icon` | `initial` | `base-nova` | [浅色](avatar-group-count-icon-initial-light.png) · [深色](avatar-group-count-icon-initial-dark.png) |
 | 8 | [avatar-rtl](https://ui.shadcn.com/examples/base/avatar-rtl) | `rtl` | `initial` | `example-defined` | [浅色](avatar-rtl-initial-light.png) · [深色](avatar-rtl-initial-dark.png) |
 | 9 | [avatar-size](https://ui.shadcn.com/examples/base/avatar-size) | `size` | `initial` | `base-nova` | [浅色](avatar-size-initial-light.png) · [深色](avatar-size-initial-dark.png) |
+| 10 | [avatar-dropdown](https://ui.shadcn.com/examples/base/avatar-dropdown) | `dropdown` | `keyboard-focused` | `base-nova` | [浅色](avatar-dropdown-keyboard-focused-light.png) · [深色](avatar-dropdown-keyboard-focused-dark.png) |
