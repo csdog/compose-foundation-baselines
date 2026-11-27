@@ -18,3 +18,4 @@
 | 3 | [alert-colors](https://ui.shadcn.com/examples/base/alert-colors) | `colors` | `initial` | `base-nova` | [浅色](alert-colors-initial-light.png) · [深色](alert-colors-initial-dark.png) |
 | 4 | [alert-destructive](https://ui.shadcn.com/examples/base/alert-destructive) | `destructive` | `initial` | `base-nova` | [浅色](alert-destructive-initial-light.png) · [深色](alert-destructive-initial-dark.png) |
 | 5 | [alert-rtl](https://ui.shadcn.com/examples/base/alert-rtl) | `rtl` | `initial` | `example-defined` | [浅色](alert-rtl-initial-light.png) · [深色](alert-rtl-initial-dark.png) |
+| 6 | [alert-action](https://ui.shadcn.com/examples/base/alert-action) | `action` | `keyboard-focused` | `base-nova` | [浅色](alert-action-keyboard-focused-light.png) · [深色](alert-action-keyboard-focused-dark.png) |
