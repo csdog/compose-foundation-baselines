@@ -103,6 +103,27 @@
         "command-shortcuts-initial-light.png",
         "command-shortcuts-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-navigated",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/command-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/command-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "command-default-keyboard-navigated-light.png",
+        "command-default-keyboard-navigated-dark.png"
+      ],
+      "interaction": {
+        "target": "Command search",
+        "keys": [
+          "Tab",
+          "ArrowDown"
+        ],
+        "expect": "Search Emoji"
+      }
     }
   ]
 }

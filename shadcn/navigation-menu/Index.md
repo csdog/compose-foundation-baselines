@@ -16,3 +16,4 @@
 | 1 | [navigation-menu-demo](https://ui.shadcn.com/examples/base/navigation-menu-demo) | `default` | `open` | `base-nova` | [浅色](navigation-menu-default-open-light.png) · [深色](navigation-menu-default-open-dark.png) |
 | 2 | [navigation-menu-rtl](https://ui.shadcn.com/examples/base/navigation-menu-rtl) | `rtl` | `initial` | `example-defined` | [浅色](navigation-menu-rtl-initial-light.png) · [深色](navigation-menu-rtl-initial-dark.png) |
 | 3 | [navigation-menu-rtl](https://ui.shadcn.com/examples/base/navigation-menu-rtl) | `rtl` | `open` | `example-defined` | [浅色](navigation-menu-rtl-open-light.png) · [深色](navigation-menu-rtl-open-dark.png) |
+| 4 | [navigation-menu-demo](https://ui.shadcn.com/examples/base/navigation-menu-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](navigation-menu-default-keyboard-focused-light.png) · [深色](navigation-menu-default-keyboard-focused-dark.png) |

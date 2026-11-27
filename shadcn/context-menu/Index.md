@@ -27,3 +27,4 @@
 | 12 | [context-menu-sides](https://ui.shadcn.com/examples/base/context-menu-sides) | `sides` | `initial` | `base-nova` | [浅色](context-menu-sides-initial-light.png) · [深色](context-menu-sides-initial-dark.png) |
 | 13 | [context-menu-submenu](https://ui.shadcn.com/examples/base/context-menu-submenu) | `submenu` | `initial` | `base-nova` | [浅色](context-menu-submenu-initial-light.png) · [深色](context-menu-submenu-initial-dark.png) |
 | 14 | [context-menu-submenu](https://ui.shadcn.com/examples/base/context-menu-submenu) | `submenu` | `open` | `base-nova` | [浅色](context-menu-submenu-open-light.png) · [深色](context-menu-submenu-open-dark.png) |
+| 15 | [context-menu-demo](https://ui.shadcn.com/examples/base/context-menu-demo) | `default` | `keyboard-navigated` | `base-nova` | [浅色](context-menu-default-keyboard-navigated-light.png) · [深色](context-menu-default-keyboard-navigated-dark.png) |

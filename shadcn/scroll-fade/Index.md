@@ -19,3 +19,5 @@
 | 4 | [scroll-fade-overflow](https://ui.shadcn.com/examples/base/scroll-fade-overflow) | `overflow` | `initial` | `example-defined` | [浅色](scroll-fade-overflow-initial-light.png) · [深色](scroll-fade-overflow-initial-dark.png) |
 | 5 | [scroll-fade-rtl](https://ui.shadcn.com/examples/base/scroll-fade-rtl) | `rtl` | `initial` | `example-defined` | [浅色](scroll-fade-rtl-initial-light.png) · [深色](scroll-fade-rtl-initial-dark.png) |
 | 6 | [scroll-fade-size](https://ui.shadcn.com/examples/base/scroll-fade-size) | `size` | `initial` | `example-defined` | [浅色](scroll-fade-size-initial-light.png) · [深色](scroll-fade-size-initial-dark.png) |
+| 7 | [scroll-fade-demo](https://ui.shadcn.com/examples/base/scroll-fade-demo) | `default` | `keyboard-focused` | `example-defined` | [浅色](scroll-fade-default-keyboard-focused-light.png) · [深色](scroll-fade-default-keyboard-focused-dark.png) |
+| 8 | [scroll-fade-demo](https://ui.shadcn.com/examples/base/scroll-fade-demo) | `default` | `keyboard-scrolled` | `example-defined` | [浅色](scroll-fade-default-keyboard-scrolled-light.png) · [深色](scroll-fade-default-keyboard-scrolled-dark.png) |

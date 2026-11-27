@@ -23,3 +23,5 @@
 | 8 | [dialog-scrollable-content](https://ui.shadcn.com/examples/base/dialog-scrollable-content) | `scrollable-content` | `open` | `base-nova` | [浅色](dialog-scrollable-content-open-light.png) · [深色](dialog-scrollable-content-open-dark.png) |
 | 9 | [dialog-sticky-footer](https://ui.shadcn.com/examples/base/dialog-sticky-footer) | `sticky-footer` | `initial` | `base-nova` | [浅色](dialog-sticky-footer-initial-light.png) · [深色](dialog-sticky-footer-initial-dark.png) |
 | 10 | [dialog-sticky-footer](https://ui.shadcn.com/examples/base/dialog-sticky-footer) | `sticky-footer` | `open` | `base-nova` | [浅色](dialog-sticky-footer-open-light.png) · [深色](dialog-sticky-footer-open-dark.png) |
+| 11 | [dialog-demo](https://ui.shadcn.com/examples/base/dialog-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](dialog-default-keyboard-focused-light.png) · [深色](dialog-default-keyboard-focused-dark.png) |
+| 12 | [dialog-demo](https://ui.shadcn.com/examples/base/dialog-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](dialog-default-keyboard-activated-light.png) · [深色](dialog-default-keyboard-activated-dark.png) |

@@ -19,3 +19,4 @@
 | 4 | [menubar-radio](https://ui.shadcn.com/examples/base/menubar-radio) | `radio` | `initial` | `base-nova` | [浅色](menubar-radio-initial-light.png) · [深色](menubar-radio-initial-dark.png) |
 | 5 | [menubar-rtl](https://ui.shadcn.com/examples/base/menubar-rtl) | `rtl` | `initial` | `example-defined` | [浅色](menubar-rtl-initial-light.png) · [深色](menubar-rtl-initial-dark.png) |
 | 6 | [menubar-submenu](https://ui.shadcn.com/examples/base/menubar-submenu) | `submenu` | `initial` | `base-nova` | [浅色](menubar-submenu-initial-light.png) · [深色](menubar-submenu-initial-dark.png) |
+| 7 | [menubar-demo](https://ui.shadcn.com/examples/base/menubar-demo) | `default` | `keyboard-open` | `base-nova` | [浅色](menubar-default-keyboard-open-light.png) · [深色](menubar-default-keyboard-open-dark.png) |

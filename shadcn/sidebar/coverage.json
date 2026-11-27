@@ -175,6 +175,33 @@
         "sidebar-rtl-initial-light.png",
         "sidebar-rtl-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/sidebar-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/sidebar-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "sidebar-default-keyboard-focused-light.png",
+        "sidebar-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "sidebar-trigger",
+          "tag": "button",
+          "label": "Toggle Sidebar",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0 0 0 / 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0 0 0 / 0)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
     }
   ]
 }

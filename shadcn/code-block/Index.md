@@ -37,3 +37,4 @@
 | 22 | [code-block-trace](https://ui.shadcn.com/examples/base/code-block-trace) | `trace` | `initial` | `base-rhea` | [浅色](code-block-trace-initial-light.png) · [深色](code-block-trace-initial-dark.png) |
 | 23 | [code-block-typeset](https://ui.shadcn.com/examples/base/code-block-typeset) | `typeset` | `initial` | `base-rhea` | [浅色](code-block-typeset-initial-light.png) · [深色](code-block-typeset-initial-dark.png) |
 | 24 | [code-block-wrap](https://ui.shadcn.com/examples/base/code-block-wrap) | `wrap` | `initial` | `base-rhea` | [浅色](code-block-wrap-initial-light.png) · [深色](code-block-wrap-initial-dark.png) |
+| 25 | [code-block-demo](https://ui.shadcn.com/examples/base/code-block-demo) | `default` | `keyboard-focused` | `base-rhea` | [浅色](code-block-default-keyboard-focused-light.png) · [深色](code-block-default-keyboard-focused-dark.png) |

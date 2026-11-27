@@ -25,3 +25,5 @@
 | 10 | [drawer-snap-points](https://ui.shadcn.com/examples/base/drawer-snap-points) | `snap-points` | `initial` | `base-rhea` | [浅色](drawer-snap-points-initial-light.png) · [深色](drawer-snap-points-initial-dark.png) |
 | 11 | [drawer-snap-points](https://ui.shadcn.com/examples/base/drawer-snap-points) | `snap-points` | `open` | `base-rhea` | [浅色](drawer-snap-points-open-light.png) · [深色](drawer-snap-points-open-dark.png) |
 | 12 | [drawer-swipe-handle](https://ui.shadcn.com/examples/base/drawer-swipe-handle) | `swipe-handle` | `initial` | `base-rhea` | [浅色](drawer-swipe-handle-initial-light.png) · [深色](drawer-swipe-handle-initial-dark.png) |
+| 13 | [drawer-demo](https://ui.shadcn.com/examples/base/drawer-demo) | `default` | `keyboard-focused` | `base-rhea` | [浅色](drawer-default-keyboard-focused-light.png) · [深色](drawer-default-keyboard-focused-dark.png) |
+| 14 | [drawer-demo](https://ui.shadcn.com/examples/base/drawer-demo) | `default` | `keyboard-activated` | `base-rhea` | [浅色](drawer-default-keyboard-activated-light.png) · [深色](drawer-default-keyboard-activated-dark.png) |

@@ -206,6 +206,33 @@
         "input-rtl-initial-light.png",
         "input-rtl-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-default-keyboard-focused-light.png",
+        "input-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "input",
+          "tag": "input",
+          "label": "sk-...",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.5) 0px 0px 0px 3px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.921998 -0.00000908971 0.0000215769)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
     }
   ]
 }

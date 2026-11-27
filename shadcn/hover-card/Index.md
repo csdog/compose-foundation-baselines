@@ -16,3 +16,4 @@
 | 1 | [hover-card-demo](https://ui.shadcn.com/examples/base/hover-card-demo) | `default` | `open` | `base-nova` | [浅色](hover-card-default-open-light.png) · [深色](hover-card-default-open-dark.png) |
 | 2 | [hover-card-rtl](https://ui.shadcn.com/examples/base/hover-card-rtl) | `rtl` | `initial` | `example-defined` | [浅色](hover-card-rtl-initial-light.png) · [深色](hover-card-rtl-initial-dark.png) |
 | 3 | [hover-card-sides](https://ui.shadcn.com/examples/base/hover-card-sides) | `sides` | `initial` | `base-nova` | [浅色](hover-card-sides-initial-light.png) · [深色](hover-card-sides-initial-dark.png) |
+| 4 | [hover-card-demo](https://ui.shadcn.com/examples/base/hover-card-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](hover-card-default-keyboard-focused-light.png) · [深色](hover-card-default-keyboard-focused-dark.png) |

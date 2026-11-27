@@ -16,3 +16,4 @@
 | 1 | [resizable-handle](https://ui.shadcn.com/examples/base/resizable-handle) | `handle` | `initial` | `base-nova` | [浅色](resizable-handle-initial-light.png) · [深色](resizable-handle-initial-dark.png) |
 | 2 | [resizable-rtl](https://ui.shadcn.com/examples/base/resizable-rtl) | `rtl` | `initial` | `example-defined` | [浅色](resizable-rtl-initial-light.png) · [深色](resizable-rtl-initial-dark.png) |
 | 3 | [resizable-vertical](https://ui.shadcn.com/examples/base/resizable-vertical) | `vertical` | `initial` | `base-nova` | [浅色](resizable-vertical-initial-light.png) · [深色](resizable-vertical-initial-dark.png) |
+| 4 | [resizable-demo](https://ui.shadcn.com/examples/base/resizable-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](resizable-default-keyboard-focused-light.png) · [深色](resizable-default-keyboard-focused-dark.png) |

@@ -28,3 +28,4 @@
 | 13 | [input-invalid](https://ui.shadcn.com/examples/base/input-invalid) | `invalid` | `initial` | `base-nova` | [浅色](input-invalid-initial-light.png) · [深色](input-invalid-initial-dark.png) |
 | 14 | [input-required](https://ui.shadcn.com/examples/base/input-required) | `required` | `initial` | `base-nova` | [浅色](input-required-initial-light.png) · [深色](input-required-initial-dark.png) |
 | 15 | [input-rtl](https://ui.shadcn.com/examples/base/input-rtl) | `rtl` | `initial` | `example-defined` | [浅色](input-rtl-initial-light.png) · [深色](input-rtl-initial-dark.png) |
+| 16 | [input-demo](https://ui.shadcn.com/examples/base/input-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](input-default-keyboard-focused-light.png) · [深色](input-default-keyboard-focused-dark.png) |

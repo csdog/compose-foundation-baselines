@@ -14,3 +14,4 @@
 | 序号 | 官方示例 | 变体 | 截图状态 | 示例样式 | 参考截图 |
 | ---: | --- | --- | --- | --- | --- |
 | 1 | [label-rtl](https://ui.shadcn.com/examples/base/label-rtl) | `rtl` | `initial` | `example-defined` | [浅色](label-rtl-initial-light.png) · [深色](label-rtl-initial-dark.png) |
+| 2 | [label-demo](https://ui.shadcn.com/examples/base/label-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](label-default-keyboard-focused-light.png) · [深色](label-default-keyboard-focused-dark.png) |

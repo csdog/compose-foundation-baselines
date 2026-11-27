@@ -31,3 +31,5 @@
 | 16 | [dropdown-menu-shortcuts](https://ui.shadcn.com/examples/base/dropdown-menu-shortcuts) | `shortcuts` | `open` | `base-nova` | [浅色](dropdown-menu-shortcuts-open-light.png) · [深色](dropdown-menu-shortcuts-open-dark.png) |
 | 17 | [dropdown-menu-submenu](https://ui.shadcn.com/examples/base/dropdown-menu-submenu) | `submenu` | `initial` | `base-nova` | [浅色](dropdown-menu-submenu-initial-light.png) · [深色](dropdown-menu-submenu-initial-dark.png) |
 | 18 | [dropdown-menu-submenu](https://ui.shadcn.com/examples/base/dropdown-menu-submenu) | `submenu` | `open` | `base-nova` | [浅色](dropdown-menu-submenu-open-light.png) · [深色](dropdown-menu-submenu-open-dark.png) |
+| 19 | [dropdown-menu-demo](https://ui.shadcn.com/examples/base/dropdown-menu-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](dropdown-menu-default-keyboard-focused-light.png) · [深色](dropdown-menu-default-keyboard-focused-dark.png) |
+| 20 | [dropdown-menu-demo](https://ui.shadcn.com/examples/base/dropdown-menu-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](dropdown-menu-default-keyboard-activated-light.png) · [深色](dropdown-menu-default-keyboard-activated-dark.png) |

@@ -18,3 +18,4 @@
 | 3 | [toast-types](https://ui.shadcn.com/examples/base/toast-types) | `types` | `error` | `base-nova` | [浅色](toast-types-error-light.png) · [深色](toast-types-error-dark.png) |
 | 4 | [toast-types](https://ui.shadcn.com/examples/base/toast-types) | `types` | `success` | `base-nova` | [浅色](toast-types-success-light.png) · [深色](toast-types-success-dark.png) |
 | 5 | [toast-demo](https://ui.shadcn.com/examples/base/toast-demo) | `default` | `visible` | `base-nova` | [浅色](toast-default-visible-light.png) · [深色](toast-default-visible-dark.png) |
+| 6 | [toast-demo](https://ui.shadcn.com/examples/base/toast-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](toast-default-keyboard-focused-light.png) · [深色](toast-default-keyboard-focused-dark.png) |

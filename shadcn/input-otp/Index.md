@@ -22,3 +22,4 @@
 | 7 | [input-otp-pattern](https://ui.shadcn.com/examples/base/input-otp-pattern) | `pattern` | `initial` | `base-nova` | [浅色](input-otp-pattern-initial-light.png) · [深色](input-otp-pattern-initial-dark.png) |
 | 8 | [input-otp-rtl](https://ui.shadcn.com/examples/base/input-otp-rtl) | `rtl` | `initial` | `example-defined` | [浅色](input-otp-rtl-initial-light.png) · [深色](input-otp-rtl-initial-dark.png) |
 | 9 | [input-otp-separator](https://ui.shadcn.com/examples/base/input-otp-separator) | `separator` | `initial` | `base-nova` | [浅色](input-otp-separator-initial-light.png) · [深色](input-otp-separator-initial-dark.png) |
+| 10 | [input-otp-demo](https://ui.shadcn.com/examples/base/input-otp-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](input-otp-default-keyboard-focused-light.png) · [深色](input-otp-default-keyboard-focused-dark.png) |

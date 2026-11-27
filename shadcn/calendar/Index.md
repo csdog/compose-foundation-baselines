@@ -24,3 +24,4 @@
 | 9 | [calendar-rtl](https://ui.shadcn.com/examples/base/calendar-rtl) | `rtl` | `initial` | `example-defined` | [浅色](calendar-rtl-initial-light.png) · [深色](calendar-rtl-initial-dark.png) |
 | 10 | [calendar-time](https://ui.shadcn.com/examples/base/calendar-time) | `time` | `initial` | `base-nova` | [浅色](calendar-time-initial-light.png) · [深色](calendar-time-initial-dark.png) |
 | 11 | [calendar-week-numbers](https://ui.shadcn.com/examples/base/calendar-week-numbers) | `week-numbers` | `initial` | `base-nova` | [浅色](calendar-week-numbers-initial-light.png) · [深色](calendar-week-numbers-initial-dark.png) |
+| 12 | [calendar-demo](https://ui.shadcn.com/examples/base/calendar-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](calendar-default-keyboard-focused-light.png) · [深色](calendar-default-keyboard-focused-dark.png) |

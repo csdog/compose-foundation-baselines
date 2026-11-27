@@ -28,3 +28,4 @@
 | 13 | [trace-thinking](https://ui.shadcn.com/examples/base/trace-thinking) | `thinking` | `initial` | `base-rhea` | [浅色](trace-thinking-initial-light.png) · [深色](trace-thinking-initial-dark.png) |
 | 14 | [trace-tool-calls](https://ui.shadcn.com/examples/base/trace-tool-calls) | `tool-calls` | `initial` | `base-rhea` | [浅色](trace-tool-calls-initial-light.png) · [深色](trace-tool-calls-initial-dark.png) |
 | 15 | [trace-turn](https://ui.shadcn.com/examples/base/trace-turn) | `turn` | `initial` | `base-rhea` | [浅色](trace-turn-initial-light.png) · [深色](trace-turn-initial-dark.png) |
+| 16 | [trace-demo](https://ui.shadcn.com/examples/base/trace-demo) | `default` | `keyboard-focused` | `base-rhea` | [浅色](trace-default-keyboard-focused-light.png) · [深色](trace-default-keyboard-focused-dark.png) |

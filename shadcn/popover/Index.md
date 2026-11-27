@@ -23,3 +23,5 @@
 | 6 | [popover-form](https://ui.shadcn.com/examples/base/popover-form) | `form` | `open` | `base-nova` | [浅色](popover-form-open-light.png) · [深色](popover-form-open-dark.png) |
 | 7 | [popover-rtl](https://ui.shadcn.com/examples/base/popover-rtl) | `rtl` | `initial` | `example-defined` | [浅色](popover-rtl-initial-light.png) · [深色](popover-rtl-initial-dark.png) |
 | 8 | [popover-rtl](https://ui.shadcn.com/examples/base/popover-rtl) | `rtl` | `open` | `example-defined` | [浅色](popover-rtl-open-light.png) · [深色](popover-rtl-open-dark.png) |
+| 9 | [popover-demo](https://ui.shadcn.com/examples/base/popover-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](popover-default-keyboard-focused-light.png) · [深色](popover-default-keyboard-focused-dark.png) |
+| 10 | [popover-demo](https://ui.shadcn.com/examples/base/popover-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](popover-default-keyboard-activated-light.png) · [深色](popover-default-keyboard-activated-dark.png) |

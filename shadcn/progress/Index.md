@@ -16,3 +16,4 @@
 | 1 | [progress-controlled](https://ui.shadcn.com/examples/base/progress-controlled) | `controlled` | `initial` | `base-nova` | [浅色](progress-controlled-initial-light.png) · [深色](progress-controlled-initial-dark.png) |
 | 2 | [progress-label](https://ui.shadcn.com/examples/base/progress-label) | `label` | `initial` | `base-nova` | [浅色](progress-label-initial-light.png) · [深色](progress-label-initial-dark.png) |
 | 3 | [progress-rtl](https://ui.shadcn.com/examples/base/progress-rtl) | `rtl` | `initial` | `example-defined` | [浅色](progress-rtl-initial-light.png) · [深色](progress-rtl-initial-dark.png) |
+| 4 | [progress-controlled](https://ui.shadcn.com/examples/base/progress-controlled) | `controlled` | `keyboard-value-changed` | `base-nova` | [浅色](progress-controlled-keyboard-value-changed-light.png) · [深色](progress-controlled-keyboard-value-changed-dark.png) |

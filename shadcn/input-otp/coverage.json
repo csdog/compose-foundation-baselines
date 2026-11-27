@@ -123,6 +123,33 @@
         "input-otp-separator-initial-light.png",
         "input-otp-separator-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/input-otp-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/input-otp-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "input-otp-default-keyboard-focused-light.png",
+        "input-otp-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "input-otp",
+          "tag": "input",
+          "label": "",
+          "visible": true,
+          "paint": "none solid rgba(0, 0, 0, 0)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
     }
   ]
 }

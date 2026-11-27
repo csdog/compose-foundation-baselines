@@ -102,6 +102,75 @@
         "accordion-rtl-initial-light.png",
         "accordion-rtl-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "accordion-default-keyboard-focused-light.png",
+        "accordion-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "accordion-trigger",
+          "tag": "button",
+          "label": "What are your shipping options?",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.0162517) 0px 0px 0px 0.0975104px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.707999 -0.00000712276 0.0000166297 / 0.0325035)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-activated",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/accordion-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/accordion-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "accordion-default-keyboard-activated-light.png",
+        "accordion-default-keyboard-activated-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "accordion-trigger",
+          "tag": "button",
+          "label": "What are your shipping options?",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.0162517) 0px 0px 0px 0.0975104px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.707999 -0.00000712276 0.0000166297 / 0.0325035)"
+        },
+        "keys": [
+          "Tab",
+          "Space"
+        ],
+        "expect": {
+          "key": "Space",
+          "region": "[data-slot='accordion-content'][data-open]",
+          "attribute": "aria-expanded",
+          "beforeValue": "true",
+          "afterValue": "false",
+          "end": {
+            "role": null,
+            "slot": "accordion-trigger",
+            "tag": "button",
+            "label": "What are your shipping options?",
+            "visible": true,
+            "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.5) 0px 0px 0px 3px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none lab(66.128 -0.0000298023 0.0000119209)"
+          }
+        }
+      }
     }
   ]
 }

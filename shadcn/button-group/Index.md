@@ -24,3 +24,4 @@
 | 9 | [button-group-separator](https://ui.shadcn.com/examples/base/button-group-separator) | `separator` | `initial` | `base-nova` | [浅色](button-group-separator-initial-light.png) · [深色](button-group-separator-initial-dark.png) |
 | 10 | [button-group-size](https://ui.shadcn.com/examples/base/button-group-size) | `size` | `initial` | `base-nova` | [浅色](button-group-size-initial-light.png) · [深色](button-group-size-initial-dark.png) |
 | 11 | [button-group-split](https://ui.shadcn.com/examples/base/button-group-split) | `split` | `initial` | `base-nova` | [浅色](button-group-split-initial-light.png) · [深色](button-group-split-initial-dark.png) |
+| 12 | [button-group-demo](https://ui.shadcn.com/examples/base/button-group-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](button-group-default-keyboard-focused-light.png) · [深色](button-group-default-keyboard-focused-dark.png) |

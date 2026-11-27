@@ -25,3 +25,4 @@
 | 10 | [field-slider](https://ui.shadcn.com/examples/base/field-slider) | `slider` | `initial` | `base-nova` | [浅色](field-slider-initial-light.png) · [深色](field-slider-initial-dark.png) |
 | 11 | [field-switch](https://ui.shadcn.com/examples/base/field-switch) | `switch` | `initial` | `base-nova` | [浅色](field-switch-initial-light.png) · [深色](field-switch-initial-dark.png) |
 | 12 | [field-textarea](https://ui.shadcn.com/examples/base/field-textarea) | `textarea` | `initial` | `base-nova` | [浅色](field-textarea-initial-light.png) · [深色](field-textarea-initial-dark.png) |
+| 13 | [field-demo](https://ui.shadcn.com/examples/base/field-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](field-default-keyboard-focused-light.png) · [深色](field-default-keyboard-focused-dark.png) |

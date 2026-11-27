@@ -20,3 +20,4 @@
 | 5 | [carousel-rtl](https://ui.shadcn.com/examples/base/carousel-rtl) | `rtl` | `initial` | `example-defined` | [浅色](carousel-rtl-initial-light.png) · [深色](carousel-rtl-initial-dark.png) |
 | 6 | [carousel-size](https://ui.shadcn.com/examples/base/carousel-size) | `size` | `initial` | `base-nova` | [浅色](carousel-size-initial-light.png) · [深色](carousel-size-initial-dark.png) |
 | 7 | [carousel-spacing](https://ui.shadcn.com/examples/base/carousel-spacing) | `spacing` | `initial` | `base-nova` | [浅色](carousel-spacing-initial-light.png) · [深色](carousel-spacing-initial-dark.png) |
+| 8 | [carousel-demo](https://ui.shadcn.com/examples/base/carousel-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](carousel-default-keyboard-focused-light.png) · [深色](carousel-default-keyboard-focused-dark.png) |

@@ -162,6 +162,33 @@
         "item-outline-item-group-initial-light.png",
         "item-outline-item-group-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/item-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/item-demo",
+      "sourceExampleStyles": [
+        "base-nova"
+      ],
+      "images": [
+        "item-default-keyboard-focused-light.png",
+        "item-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "button",
+          "tag": "button",
+          "label": "Action",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.0163989) 0px 0px 0px 0.0983932px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.914979 -0.0000090252 0.0000214146)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
     }
   ]
 }

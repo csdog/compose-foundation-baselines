@@ -20,3 +20,4 @@
 | 5 | [slider-range](https://ui.shadcn.com/examples/base/slider-range) | `range` | `initial` | `base-nova` | [浅色](slider-range-initial-light.png) · [深色](slider-range-initial-dark.png) |
 | 6 | [slider-rtl](https://ui.shadcn.com/examples/base/slider-rtl) | `rtl` | `initial` | `example-defined` | [浅色](slider-rtl-initial-light.png) · [深色](slider-rtl-initial-dark.png) |
 | 7 | [slider-vertical](https://ui.shadcn.com/examples/base/slider-vertical) | `vertical` | `initial` | `base-nova` | [浅色](slider-vertical-initial-light.png) · [深色](slider-vertical-initial-dark.png) |
+| 8 | [slider-demo](https://ui.shadcn.com/examples/base/slider-demo) | `default` | `keyboard-value-changed` | `base-nova` | [浅色](slider-default-keyboard-value-changed-light.png) · [深色](slider-default-keyboard-value-changed-dark.png) |

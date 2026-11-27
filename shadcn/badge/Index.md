@@ -19,3 +19,4 @@
 | 4 | [badge-rtl](https://ui.shadcn.com/examples/base/badge-rtl) | `rtl` | `initial` | `example-defined` | [浅色](badge-rtl-initial-light.png) · [深色](badge-rtl-initial-dark.png) |
 | 5 | [badge-spinner](https://ui.shadcn.com/examples/base/badge-spinner) | `spinner` | `initial` | `base-nova` | [浅色](badge-spinner-initial-light.png) · [深色](badge-spinner-initial-dark.png) |
 | 6 | [badge-variants](https://ui.shadcn.com/examples/base/badge-variants) | `variants` | `initial` | `base-nova` | [浅色](badge-variants-initial-light.png) · [深色](badge-variants-initial-dark.png) |
+| 7 | [badge-link](https://ui.shadcn.com/examples/base/badge-link) | `link` | `keyboard-focused` | `base-nova` | [浅色](badge-link-keyboard-focused-light.png) · [深色](badge-link-keyboard-focused-dark.png) |

@@ -27,3 +27,4 @@
 | 12 | [combobox-demo](https://ui.shadcn.com/examples/base/combobox-demo) | `default` | `open` | `base-nova` | [浅色](combobox-default-open-light.png) · [深色](combobox-default-open-dark.png) |
 | 13 | [combobox-popup](https://ui.shadcn.com/examples/base/combobox-popup) | `popup` | `initial` | `base-nova` | [浅色](combobox-popup-initial-light.png) · [深色](combobox-popup-initial-dark.png) |
 | 14 | [combobox-rtl](https://ui.shadcn.com/examples/base/combobox-rtl) | `rtl` | `initial` | `example-defined` | [浅色](combobox-rtl-initial-light.png) · [深色](combobox-rtl-initial-dark.png) |
+| 15 | [combobox-demo](https://ui.shadcn.com/examples/base/combobox-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](combobox-default-keyboard-focused-light.png) · [深色](combobox-default-keyboard-focused-dark.png) |
