@@ -26,3 +26,4 @@
 | 11 | [button-size](https://ui.shadcn.com/examples/base/button-size) | `size` | `initial` | `base-nova` | [浅色](button-size-initial-light.png) · [深色](button-size-initial-dark.png) |
 | 12 | [button-spinner](https://ui.shadcn.com/examples/base/button-spinner) | `spinner` | `initial` | `base-nova` | [浅色](button-spinner-initial-light.png) · [深色](button-spinner-initial-dark.png) |
 | 13 | [button-with-icon](https://ui.shadcn.com/examples/base/button-with-icon) | `with-icon` | `initial` | `base-nova` | [浅色](button-with-icon-initial-light.png) · [深色](button-with-icon-initial-dark.png) |
+| 14 | [button-demo](https://ui.shadcn.com/examples/base/button-demo) | `variants` | `keyboard-focused` | `base-nova` | [浅色](button-variants-keyboard-focused-light.png) · [深色](button-variants-keyboard-focused-dark.png) |
