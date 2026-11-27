@@ -187,6 +187,75 @@
         "drawer-swipe-handle-initial-light.png",
         "drawer-swipe-handle-initial-dark.png"
       ]
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-focused",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/drawer-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/drawer-demo",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "drawer-default-keyboard-focused-light.png",
+        "drawer-default-keyboard-focused-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "drawer-trigger",
+          "tag": "button",
+          "label": "Open Drawer",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.0525451) 0px 0px 0px 0.525451px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.707999 -0.00000712276 0.0000166297 / 0.17515)"
+        },
+        "keys": [
+          "Tab"
+        ],
+        "expect": "The keyboard target has visible focus."
+      }
+    },
+    {
+      "variant": "default",
+      "state": "keyboard-activated",
+      "source": "https://github.com/shadcn-ui/ui/blob/0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4/apps/v4/examples/base/drawer-demo.tsx",
+      "hostedExample": "https://ui.shadcn.com/examples/base/drawer-demo",
+      "sourceExampleStyles": [
+        "base-rhea"
+      ],
+      "images": [
+        "drawer-default-keyboard-activated-light.png",
+        "drawer-default-keyboard-activated-dark.png"
+      ],
+      "interaction": {
+        "target": {
+          "role": null,
+          "slot": "drawer-trigger",
+          "tag": "button",
+          "label": "Open Drawer",
+          "visible": true,
+          "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.707999 -0.00000712276 0.0000166297 / 0.0525451) 0px 0px 0px 0.525451px, rgba(0, 0, 0, 0) 0px 0px 0px 0px none oklab(0.707999 -0.00000712276 0.0000166297 / 0.17515)"
+        },
+        "keys": [
+          "Tab",
+          "Enter"
+        ],
+        "expect": {
+          "key": "Enter",
+          "region": "[role=dialog]",
+          "attribute": null,
+          "beforeValue": null,
+          "afterValue": null,
+          "end": {
+            "role": "dialog",
+            "slot": "drawer-popup",
+            "tag": "div",
+            "label": "Pick a delivery timeWe'll prepare your order as soon as possible.Standard deliveryFastest25–35 min ·",
+            "visible": true,
+            "paint": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px none lab(100 0 0)"
+          }
+        }
+      }
     }
   ]
 }
