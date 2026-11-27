@@ -26,3 +26,4 @@
 | 11 | [questionnaire-shortcuts](https://ui.shadcn.com/examples/base/questionnaire-shortcuts) | `shortcuts` | `initial` | `base-nova` | [浅色](questionnaire-shortcuts-initial-light.png) · [深色](questionnaire-shortcuts-initial-dark.png) |
 | 12 | [questionnaire-skip](https://ui.shadcn.com/examples/base/questionnaire-skip) | `skip` | `initial` | `base-nova` | [浅色](questionnaire-skip-initial-light.png) · [深色](questionnaire-skip-initial-dark.png) |
 | 13 | [questionnaire-validation](https://ui.shadcn.com/examples/base/questionnaire-validation) | `validation` | `initial` | `base-nova` | [浅色](questionnaire-validation-initial-light.png) · [深色](questionnaire-validation-initial-dark.png) |
+| 14 | [questionnaire-demo](https://ui.shadcn.com/examples/base/questionnaire-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](questionnaire-default-keyboard-focused-light.png) · [深色](questionnaire-default-keyboard-focused-dark.png) |
