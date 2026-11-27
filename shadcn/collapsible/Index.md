@@ -18,3 +18,5 @@
 | 3 | [collapsible-demo](https://ui.shadcn.com/examples/base/collapsible-demo) | `default` | `open` | `base-nova` | [浅色](collapsible-default-open-light.png) · [深色](collapsible-default-open-dark.png) |
 | 4 | [collapsible-rtl](https://ui.shadcn.com/examples/base/collapsible-rtl) | `rtl` | `initial` | `example-defined` | [浅色](collapsible-rtl-initial-light.png) · [深色](collapsible-rtl-initial-dark.png) |
 | 5 | [collapsible-settings](https://ui.shadcn.com/examples/base/collapsible-settings) | `settings` | `initial` | `base-nova` | [浅色](collapsible-settings-initial-light.png) · [深色](collapsible-settings-initial-dark.png) |
+| 6 | [collapsible-demo](https://ui.shadcn.com/examples/base/collapsible-demo) | `default` | `keyboard-focused` | `base-nova` | [浅色](collapsible-default-keyboard-focused-light.png) · [深色](collapsible-default-keyboard-focused-dark.png) |
+| 7 | [collapsible-demo](https://ui.shadcn.com/examples/base/collapsible-demo) | `default` | `keyboard-activated` | `base-nova` | [浅色](collapsible-default-keyboard-activated-light.png) · [深色](collapsible-default-keyboard-activated-dark.png) |
