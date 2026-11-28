@@ -26,7 +26,7 @@
 | 18 | [Code Block](code-block/Index.md) | `base-rhea` | [浅色](code-block/code-block-default-initial-light.png) · [深色](code-block/code-block-default-initial-dark.png) |
 | 19 | [Collapsible](collapsible/Index.md) | `base-nova` | [浅色](collapsible/collapsible-default-initial-light.png) · [深色](collapsible/collapsible-default-initial-dark.png) |
 | 20 | [Combobox](combobox/Index.md) | `base-nova` | [浅色](combobox/combobox-default-initial-light.png) · [深色](combobox/combobox-default-initial-dark.png) |
-| 21 | [Command](command/Index.md) | `base-nova` | [浅色](command/command-default-initial-light.png) · [深色](command/command-default-initial-dark.png) |
+| 21 | [Command](command/Index.md) | `base-nova` | [浅色](command/command-default-initial-light.png) · [深色](command/command-default-initial-dark.png) · 快捷键展开 [浅色](command/command-shortcuts-open-light.png) · [深色](command/command-shortcuts-open-dark.png) |
 | 22 | [Context Menu](context-menu/Index.md) | `base-nova` | [浅色](context-menu/context-menu-default-initial-light.png) · [深色](context-menu/context-menu-default-initial-dark.png) |
 | 23 | [Dialog](dialog/Index.md) | `base-nova` | [浅色](dialog/dialog-default-initial-light.png) · [深色](dialog/dialog-default-initial-dark.png) |
 | 24 | [Drawer](drawer/Index.md) | `base-rhea` | [浅色](drawer/drawer-default-initial-light.png) · [深色](drawer/drawer-default-initial-dark.png) |
