@@ -4,7 +4,7 @@ shadcn 是跨平台外观验收的默认视觉基准。平台索引按组件链�
 
 | 序号 | 图集 | 索引 |
 | ---: | --- | --- |
-| 1 | shadcn 上游视觉基准 | [组件和参考截图](shadcn/Index.md) |
+| 1 | shadcn 上游视觉基准 | [组件和参考截图](https://github.com/csdog/shadcn-baselines/blob/3d48a3317291a3d33ae3102542b3120973aad043/Index.md) |
 | 2 | Compose Web | [Compose Web](./web/Index.md) |
 | 3 | Compose Multiplatform Android | [Compose Multiplatform Android](./mobile/cmp-android/Index.md) |
 | 4 | SwiftUI iOS | [SwiftUI iOS](./mobile/swiftui/Index.md) |

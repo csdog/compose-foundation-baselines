@@ -1,0 +1,3 @@
+[submodule "shadcn"]
+	path = shadcn
+	url = https://github.com/csdog/shadcn-baselines.git

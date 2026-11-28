@@ -1,8 +1,8 @@
 # Popover
 
-对照状态为展开态。 [shadcn 示例和采集记录](../../shadcn/popover/Index.md)
+对照状态为展开态。 [shadcn 示例和采集记录](https://github.com/csdog/shadcn-baselines/blob/3d48a3317291a3d33ae3102542b3120973aad043/popover/Index.md)
 
 | 序号 | 主题 | Compose Desktop | shadcn 视觉基准 |
 | ---: | --- | --- | --- |
-| 1 | 浅色 | ![Popover 浅色](popover-default-open-light.png) | ![shadcn 浅色](../../shadcn/popover/popover-default-open-light.png) |
-| 2 | 深色 | ![Popover 深色](popover-default-open-dark.png) | ![shadcn 深色](../../shadcn/popover/popover-default-open-dark.png) |
+| 1 | 浅色 | ![Popover 浅色](popover-default-open-light.png) | ![shadcn 浅色](https://github.com/csdog/shadcn-baselines/raw/3d48a3317291a3d33ae3102542b3120973aad043/popover/popover-default-open-light.png) |
+| 2 | 深色 | ![Popover 深色](popover-default-open-dark.png) | ![shadcn 深色](https://github.com/csdog/shadcn-baselines/raw/3d48a3317291a3d33ae3102542b3120973aad043/popover/popover-default-open-dark.png) |
